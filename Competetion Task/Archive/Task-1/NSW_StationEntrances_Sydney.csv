@@ -1,0 +1,1011 @@
+﻿StopId,TrainStation,StreetName,StreetType,EntranceType,LAT,LONG,Exit_Number,Mode,StateCode
+1,Aberdeen,Macqueen,St,Stairs,-32.16689969,150.8919751,,Train,NSW
+2,Aberdeen,Macqueen,St,Ramp,-32.16688641,150.8919573,,Train,NSW
+3,Adamstown,Park,Ave,Path,-32.9337056,151.7204518,,Train,NSW
+4,Adamstown,St James,Rd,Stairs,-32.93341396,151.7203632,,Train,NSW
+5,Adamstown,St James,Rd,Ramp,-32.93340162,151.7203474,,Train,NSW
+6,Adamstown,Park,Ave,Path,-32.93382729,151.7202364,,Train,NSW
+7,Albion Park,Burroo,St,Ramp,-34.56340933,150.79939,,Train,NSW
+8,Albion Park,Princes,Hwy,Ramp,-34.56350712,150.7991893,,Train,NSW
+9,Albion Park,Princes,Hwy,Stairs,-34.56293995,150.798574,,Train,NSW
+10,Albion Park,Princes,Hwy,Ramp,-34.56278202,150.7984185,,Train,NSW
+11,Allawah,Railway,Pde,Ramp,-33.96996874,151.1149448,,Train,NSW
+12,Allawah,Roberts,Lane,Ramp,-33.96953727,151.1146945,,Train,NSW
+13,Allawah,Roberts,Lane,Stairs,-33.96949011,151.1145667,,Train,NSW
+14,Allawah,Railway,Pde,Lift,-33.96987782,151.1144352,,Train,NSW
+15,Allawah,Railway,Pde,Ramp,-33.96988689,151.1142405,,Train,NSW
+16,Arlington LR,Grove,St,Path,-33.9020453,151.1381593,,Train,NSW
+17,Arlington LR,Constitution,Rd,Path,-33.9020497,151.1380434,,Train,NSW
+18,Arncliffe,The Arcade,,Stairs,-33.93692447,151.1474278,,Train,NSW
+19,Arncliffe,The Arcade,,Lift,-33.93696302,151.1474227,,Train,NSW
+20,Arncliffe,Firth,St,Lift,-33.93677457,151.1468602,,Train,NSW
+21,Arncliffe,Firth,St,Stairs,-33.93671781,151.1468509,,Train,NSW
+22,Artarmon,Valetta,Lane,Ramp,-33.80823377,151.1847419,,Train,NSW
+23,Artarmon,Hampden,Rd,Lift,-33.80875941,151.1847201,,Train,NSW
+24,Artarmon,Hampden,Rd,Stairs,-33.80854065,151.1844285,,Train,NSW
+25,Ashfield,Station,St,Lift,-33.88744211,151.1259581,,Train,NSW
+26,Ashfield,Station,St,Stairs,-33.88739665,151.1258025,,Train,NSW
+27,Ashfield,Brown,St,Lift,-33.88789161,151.1257974,,Train,NSW
+28,Ashfield,Brown ,St,Stairs,-33.887775,151.1255397,,Train,NSW
+29,Asquith,Haldane,St,Path,-33.68869132,151.1082656,,Train,NSW
+30,Asquith,Pacific,Hwy,Ramp,-33.68848916,151.1079991,,Train,NSW
+31,Auburn,Rawson,St,Ramp,-33.8492876,151.0332914,,Train,NSW
+32,Auburn,South,Pde,Stairs,-33.849663,151.0329192,,Train,NSW
+33,Auburn,South,Pde,Ramp,-33.84946375,151.0327209,,Train,NSW
+34,Austinmer,Gilchrist,St,Path,-34.3065205,150.9293511,,Train,NSW
+35,Austinmer,Railway,Ave,Path,-34.30650136,150.9289071,,Train,NSW
+36,Awaba,Adelaide,St,Ramp,-33.0129167,151.5421589,,Train,NSW
+37,Awaba,Adelaide,St,Path,-33.01291676,151.5421328,,Train,NSW
+38,Awaba,Wilton,Rd,Ramp,-33.01310914,151.5420747,,Train,NSW
+39,Banksia,Hattersley,St,Ramp,-33.94490035,151.140849,,Train,NSW
+40,Banksia,Railway,St,Ramp,-33.94479129,151.1404987,,Train,NSW
+41,Banksia,Railway,St,Stairs,-33.94488347,151.1404482,,Train,NSW
+42,Bankstown,North,Tce,Ramp,-33.91768635,151.0342697,,Train,NSW
+43,Bankstown,Bankstown City,Plza,Path,-33.91805216,151.03411,,Train,NSW
+44,Bankstown,Bankstown City,Plza,Path,-33.91778824,151.0337625,,Train,NSW
+45,Bardwell Park,Hartill Law,Ave,Stairs,-33.93137824,151.125379,,Train,NSW
+46,Bargo,Great Southern,Rd,Path,-34.29097858,150.5801756,,Train,NSW
+47,Bargo,Great Southern,Rd,Ramp,-34.29098411,150.5801501,,Train,NSW
+48,Bargo,Railside,Ave,Ramp,-34.29100778,150.5800205,,Train,NSW
+49,Bargo,Railside,Ave,Path,-34.29104476,150.5800077,,Train,NSW
+50,Beecroft,Sutherland,Rd,Path,-33.74921627,151.0667339,,Train,NSW
+51,Beecroft,Wongala,Cres,Path,-33.74904472,151.0663377,,Train,NSW
+52,Beecroft,Wongala,Cres,Path,-33.74923381,151.0662247,,Train,NSW
+53,Bell,Sandham ,Rd,Ramp,-33.5061656,150.2793612,,Train,NSW
+54,Bell,Chiefley,Rd,Stairs,-33.50623435,150.2790794,,Train,NSW
+55,Bellambi,Bellambi,Lane,Ramp,-34.36261281,150.9101311,,Train,NSW
+56,Belmore,Burwood,Rd,Lift,-33.91724884,151.0883372,,Train,NSW
+57,Belmore,Burwood,Rd,Stairs,-33.91722736,151.0883244,,Train,NSW
+58,Berala,Campbell,St,Path,-33.8719773,151.0328288,,Train,NSW
+59,Berala,Woodburn,Rd,Path,-33.87139384,151.0323272,,Train,NSW
+60,Beresfield,Lawson,Ave,Stairs,-32.79940714,151.6585784,,Train,NSW
+61,Beresfield,Addison,St,Stairs,-32.79958398,151.658334,,Train,NSW
+62,Beresfield,Addison,St,Lift,-32.79947121,151.6581617,,Train,NSW
+63,Berowra,Pacific,Hwy,Ramp,-33.62291449,151.1535638,,Train,NSW
+64,Berowra,Pacific,Hwy,Ramp,-33.62300205,151.1531421,,Train,NSW
+65,Berry,Station,Rd,Path,-34.78027342,150.6967235,,Train,NSW
+66,Beverly Hills,King Georges,Rd,Stairs,-33.94914069,151.0808676,,Train,NSW
+67,Beverly Hills,King Georges,Rd,Lift,-33.94913026,151.0808291,,Train,NSW
+68,Beverly Hills,King Georges,Rd,Stairs,-33.94926254,151.0804784,,Train,NSW
+69,Bexley North,Bexley,Rd,Stairs,-33.9374812,151.1139261,,Train,NSW
+70,Birrong,Avalon,St,Stairs,-33.89253644,151.0243134,,Train,NSW
+71,Blackheath,Great Western,Hwy,Stairs,-33.63397248,150.2845903,,Train,NSW
+72,Blackheath,Station,St,Stairs,-33.63400546,150.2842535,,Train,NSW
+73,Blacktown,First,Ave,Stairs,-33.76777702,150.9080196,3,Train,NSW
+74,Blacktown,First,Ave,Stairs,-33.7677336,150.9079689,3,Train,NSW
+75,Blacktown,First,Ave,Lift,-33.76775412,150.9079614,3,Train,NSW
+76,Blacktown,Jim Simpson,Lane,Stairs,-33.76894183,150.9073054,2,Train,NSW
+77,Blacktown,Jim Simpson,Lane,Escalators,-33.76896727,150.9072963,2,Train,NSW
+78,Blacktown,Old Richmond,Rd,Lift,-33.7678292,150.9071472,4,Train,NSW
+79,Blacktown,Patrick,St,Lift,-33.76889928,150.9070828,1,Train,NSW
+80,Blacktown,Patrick,St,Stairs,-33.76903303,150.9069899,1,Train,NSW
+81,Blacktown,Old Richmond,Rd,Stairs,-33.76779802,150.9069245,4,Train,NSW
+82,Blaxland,Wilson,Way,Lift,-33.74369934,150.6099627,,Train,NSW
+83,Blaxland,Wilson,Way,Stairs,-33.74366205,150.6098058,,Train,NSW
+84,Blaxland,Great Western,Hwy,Stairs,-33.7438036,150.6096862,,Train,NSW
+85,Blaxland,Great Western,Hwy,Ramp,-33.74411767,150.6093887,,Train,NSW
+86,Blaxland,Great Western,Hwy,Stairs,-33.74404944,150.6093287,,Train,NSW
+87,Bomaderry,Meroo,St,Path,-34.85374494,150.6097702,,Train,NSW
+88,Bombo,Princes,Hwy,Stairs,-34.65868669,150.8537686,,Train,NSW
+89,Bombo,Princes,Hwy,Ramp,-34.65885576,150.8537564,,Train,NSW
+90,Bondi Junction,Grafton,St,Stairs,-33.89103017,151.2485965,,Train,NSW
+91,Bondi Junction,Rowe,St,Ramp,-33.89186986,151.2483663,,Train,NSW
+92,Bondi Junction,Grafton,St,Stairs,-33.89099409,151.2482086,,Train,NSW
+93,Booragul,Fourth,St,Ramp,-32.97169903,151.605168,,Train,NSW
+94,Booragul,Station,St,Ramp,-32.97190014,151.6047908,,Train,NSW
+95,Bowral,Station,St,Path,-34.47792483,150.4169743,,Train,NSW
+96,Bowral,Kirkham ,Rd,Path,-34.47763745,150.4167974,,Train,NSW
+97,Bowral,Wingercarribee,St,Stairs,-34.47841685,150.4165949,,Train,NSW
+98,Bowral,Wingercarribee,St,Lift,-34.47837068,150.4165765,,Train,NSW
+99,Bowral,Wingercarribee,St,Lift,-34.47827715,150.4163947,,Train,NSW
+100,Bowral,Kirkham ,Rd,Stairs,-34.47822202,150.4163793,,Train,NSW
+101,Branxton,Railway,St,Ramp,-32.66221027,151.3459324,,Train,NSW
+102,Branxton,Railway,St,Ramp,-32.66209242,151.3455358,,Train,NSW
+103,Broadmeadow,Graham,Rd,Stairs,-32.92269277,151.7354129,,Train,NSW
+104,Broadmeadow,Brown,Rd,Ramp,-32.92216413,151.7352213,,Train,NSW
+105,Broadmeadow,Graham,Rd,Ramp,-32.92289153,151.7350658,,Train,NSW
+106,Broadmeadow,Brown,Rd,Stairs,-32.92236891,151.7349462,,Train,NSW
+107,Bullaburra,Great Western,Hwy,Ramp,-33.72351988,150.4152013,,Train,NSW
+108,Bullaburra,Railway,Pde,Stairs,-33.72316759,150.4149891,,Train,NSW
+109,Bulli,Park,Rd,Lift,-34.33384472,150.9150696,,Train,NSW
+110,Bulli,Park,Rd,Lift,-34.3338201,150.9149316,,Train,NSW
+111,Bulli,Franklin,Ave,Path,-34.33428666,150.9149143,,Train,NSW
+112,Bulli,Railway,St,Path,-34.33433961,150.9146887,,Train,NSW
+113,Bundanoon,Erith,St,Ramp,-34.6557524,150.2997407,,Train,NSW
+114,Bundanoon,Church,St,Path,-34.65604988,150.2995728,,Train,NSW
+115,Burradoo,Burradoo,Rd,Path,-34.49418601,150.3981296,,Train,NSW
+116,Burradoo,Burradoo,Rd,Ramp,-34.49418573,150.3978582,,Train,NSW
+117,Burwood,Burwood,Rd,Stairs,-33.87704552,151.1038525,,Train,NSW
+118,Burwood,Burwood,Rd,Path,-33.87718853,151.1038248,,Train,NSW
+119,Cabramatta,Broomfield,St,Lift,-33.89464265,150.9391047,,Train,NSW
+120,Cabramatta,Broomfield,St,Stairs,-33.89480632,150.9390481,,Train,NSW
+121,Cabramatta,Railway,Pde,Lift,-33.89459892,150.9388134,,Train,NSW
+122,Cabramatta,Railway,Pde,Ramp,-33.89494229,150.9387321,,Train,NSW
+123,Cabramatta,Railway,Pde,Path,-33.89510227,150.9386596,,Train,NSW
+124,Camellia,Grand,Ave,Ramp,-33.81918103,151.024141,,Train,NSW
+125,Campbelltown,Railway,St,Ramp,-34.06418971,150.8148139,,Train,NSW
+126,Campbelltown,Hurley,St,Lift,-34.06359144,150.8147393,,Train,NSW
+127,Campbelltown,Hurley,St,Path,-34.06369952,150.8146228,,Train,NSW
+128,Campbelltown,Hurley,St,Stairs,-34.06367954,150.8146141,,Train,NSW
+129,Campbelltown,Farrow,Rd,Stairs,-34.06302424,150.8144097,,Train,NSW
+130,Campbelltown,Hurley,St,Lift,-34.06320084,150.8143088,,Train,NSW
+131,Campbelltown,Farrow,Rd,Stairs,-34.06332332,150.8140219,,Train,NSW
+132,Campsie,Beamish,St,Ramp,-33.91049597,151.103574,,Train,NSW
+133,Campsie,Beamish,St,Ramp,-33.91039285,151.1035577,,Train,NSW
+134,Canley Vale,First,Ave,Stairs,-33.88744308,150.9436897,,Train,NSW
+135,Canley Vale,First,Ave,Ramp,-33.88746282,150.9436297,,Train,NSW
+136,Canley Vale,Railway,Pde,Stairs,-33.88723441,150.9434805,,Train,NSW
+137,Canley Vale,Railway,Pde,Ramp,-33.88734662,150.9434198,,Train,NSW
+138,Canterbury,Canterbury,Rd,Path,-33.9121163,151.1190137,,Train,NSW
+139,Capitol Square LR,Hay,St,Path,-33.87970841,151.2055584,,Train,NSW
+140,Capitol Square LR,Hay,St,Path,-33.87980415,151.205512,,Train,NSW
+141,Cardiff,Main,Rd,Path,-32.9412794,151.6628198,,Train,NSW
+142,Cardiff,Mary,St,Stairs,-32.94145731,151.6623011,,Train,NSW
+143,Cardiff,Mary,St,Lift,-32.94140925,151.6622554,,Train,NSW
+144,Caringbah,Kingsway,,Lift,-34.04162513,151.1219142,,Train,NSW
+145,Caringbah,Kingsway,,Stairs,-34.04157881,151.121856,,Train,NSW
+146,Carlingford,Lloyds,Ave,Path,-33.78217116,151.047273,,Train,NSW
+147,Carlingford,James,St,Path,-33.7821273,151.0468442,,Train,NSW
+148,Carlingford,Lloyds,Ave,Ramp,-33.78270924,151.046786,,Train,NSW
+149,Carlingford,Lloyds,Ave,Path,-33.78287488,151.0466571,,Train,NSW
+150,Carlingford,Pennant Hills,Rd,Path,-33.78304357,151.0463511,,Train,NSW
+151,Carlton,Railway,Pde,Lift,-33.96842236,151.1245362,,Train,NSW
+152,Carlton,Carlton,Pde,Lift,-33.96801021,151.1243905,,Train,NSW
+153,Carlton,Railway,Pde,Stairs,-33.96846874,151.1243442,,Train,NSW
+154,Carlton,Carlton,Pde,Stairs,-33.96809212,151.1242377,,Train,NSW
+155,Carlton,Carlton,Pde,Ramp,-33.96798067,151.1241795,,Train,NSW
+156,Carramar,Sandal,Cres,Path,-33.88476847,150.9607298,,Train,NSW
+157,Carramar,Carramar,Ave,Path,-33.88431636,150.9605645,,Train,NSW
+158,Casula,Casula,Rd,Stairs,-33.95004957,150.9121379,,Train,NSW
+159,Casula,Casula,Rd,Lift,-33.95035283,150.9120798,,Train,NSW
+160,Casula,Casula,Rd,Lift,-33.9501874,150.9117283,,Train,NSW
+161,Casula,Casula,Rd,Path,-33.95036803,150.9117058,,Train,NSW
+162,Casula,Casula,Rd,Stairs,-33.9503293,150.9116866,,Train,NSW
+163,Central,Elizabeth,St,Ramp,-33.88352173,151.2079563,4,Train,NSW
+164,Central,Elizabeth,St,Lift,-33.88371032,151.2078995,5,Train,NSW
+165,Central,Elizabeth,St,Stairs,-33.88378577,151.207862,5,Train,NSW
+166,Central,Eddy,Ave,Stairs,-33.88302433,151.2070762,3,Train,NSW
+167,Central,Eddy,Ave,Escalators,-33.8832082,151.2070112,3,Train,NSW
+168,Central,Eddy,Ave,Lift,-33.88353624,151.2069711,3,Train,NSW
+169,Central,Eddy,Ave,Path,-33.88253976,151.2068849,2,Train,NSW
+170,Central,Chalmers,St,Lift,-33.88541283,151.2068475,6,Train,NSW
+171,Central,Chalmers,St,Escalators,-33.88544474,151.206822,6,Train,NSW
+172,Central,Chalmers,St,Stairs,-33.88547844,151.2067901,6,Train,NSW
+173,Central,Eddy,Ave,Path,-33.88233009,151.2065038,2,Train,NSW
+174,Central,Eddy,Ave,Stairs,-33.88210298,151.2061254,,Train,NSW
+175,Central,Eddy,Ave,Escalators,-33.88213747,151.2060987,,Train,NSW
+176,Central,Pitt,St,Path,-33.88236674,151.2058136,1,Train,NSW
+177,Central,Lee,St,Path,-33.88398512,151.2042663,7,Train,NSW
+178,Chatswood,Post Office,Lane,Stairs,-33.79722746,151.1814421,,Train,NSW
+179,Chatswood,Post Office,Lane,Escalators,-33.79718558,151.1814287,,Train,NSW
+180,Chatswood,Orchard,Rd,Stairs,-33.79677523,151.1813805,,Train,NSW
+181,Chatswood,Orchard,Rd,Escalators,-33.79673649,151.1813641,,Train,NSW
+182,Chatswood,Post Office,Lane,Lift,-33.79717607,151.1813031,,Train,NSW
+183,Chatswood,Thomas,St,Lift,-33.79765173,151.1812637,,Train,NSW
+184,Chatswood,Thomas,St,Stairs,-33.79766719,151.1811813,,Train,NSW
+185,Chatswood,Orchard,Rd,Lift,-33.79673526,151.1811761,,Train,NSW
+186,Chatswood,Railway,St,Lift,-33.79689881,151.1807121,,Train,NSW
+187,Chatswood,Thomas,Lane,Lift,-33.7979301,151.1806933,,Train,NSW
+188,Chatswood,Railway,St,Stairs,-33.79709534,151.1806738,,Train,NSW
+189,Chatswood,Thomas,St,Stairs,-33.797903,151.180647,,Train,NSW
+190,Chatswood,Railway,St,Escalators,-33.79705047,151.1805363,,Train,NSW
+191,Chatswood,Railway,St,Stairs,-33.79701563,151.1805215,,Train,NSW
+192,Cheltenham,Cheltenham,Rd,Stairs,-33.75539745,151.0781497,,Train,NSW
+193,Cheltenham,Cheltenham,Rd,Lift,-33.75543909,151.0781092,,Train,NSW
+194,Chester Hil,Chester Hill,Rd,Path,-33.88368818,151.0004627,,Train,NSW
+195,Circular Quay,Alfred,St,Stairs,-33.86146378,151.2107945,,Train,NSW
+196,Circular Quay,Alfred,St,Escalators,-33.86127776,151.2107739,,Train,NSW
+197,Circular Quay,Alfred,St,Escalators,-33.86143954,151.2107457,,Train,NSW
+198,Circular Quay,Alfred,St,Lift,-33.86124347,151.2107343,,Train,NSW
+199,Circular Quay,Alfred,St,Lift,-33.86146637,151.2107121,,Train,NSW
+200,Circular Quay,Alfred,St,Stairs,-33.86131441,151.2106592,,Train,NSW
+201,Circular Quay,Alfred,St,Stairs,-33.86131245,151.2106239,,Train,NSW
+202,Circular Quay,Alfred,St,Stairs,-33.86138049,151.2106156,,Train,NSW
+203,Circular Quay,Alfred,St,Escalators,-33.86125995,151.2105656,,Train,NSW
+204,Circular Quay,Alfred,St,Escalators,-33.86139905,151.2103289,,Train,NSW
+205,Clarendon,Racecource,Rd,Ramp,-33.60844245,150.7878928,,Train,NSW
+206,Clarendon,Racecource,Rd,Path,-33.60848854,150.787844,,Train,NSW
+207,Clarendon,Racecource,Rd,Ramp,-33.60859421,150.7877637,,Train,NSW
+208,Clyde,Berry,St,Ramp,-33.83554673,151.0170387,1,Train,NSW
+209,Clyde,Factory,St,Ramp,-33.83606198,151.0165639,2,Train,NSW
+210,Coalcliff,Lawrence Hargrave ,Dr,Stairs,-34.24253571,150.977052,,Train,NSW
+211,Cockle Creek,Lake,Rd,Stairs,-32.94246711,151.6244306,,Train,NSW
+212,Cockle Creek,Creek Reserve,Rd,Path,-32.94287548,151.6238126,,Train,NSW
+213,Coledale,Cater,St,Stairs,-34.28989285,150.943031,,Train,NSW
+214,Como,Railway,Rd,Stairs,-34.00454075,151.0683305,,Train,NSW
+215,Como,Railway,Rd,Stairs,-34.00437623,151.068248,,Train,NSW
+216,Como,Como,Pde,Ramp,-34.00447157,151.0676891,,Train,NSW
+217,Concord West,Queen,St,Stairs,-33.84809272,151.0859526,,Train,NSW
+218,Concord West,Queen,St,Lift,-33.84803171,151.0859019,,Train,NSW
+219,Concord West,King,St,Stairs,-33.84821375,151.0852126,,Train,NSW
+220,Concord West,King,St,Lift,-33.84808986,151.0851995,,Train,NSW
+221,Concord West,King,St,Stairs,-33.84795404,151.0851904,,Train,NSW
+222,Coniston,Bridge,St,Stairs,-34.43823905,150.8851205,,Train,NSW
+223,Coniston,Gladsone,Ave,Ramp,-34.43796566,150.884845,,Train,NSW
+224,Convention Centre LR,Darling,Dr,Ramp,-33.87286403,151.1981517,,Train,NSW
+225,Corrimal,Duff,Pde,Path,-34.37549456,150.9051489,,Train,NSW
+226,Corrimal,Railway,St,Path,-34.37567312,150.9048905,,Train,NSW
+227,Cowan,Pacific,Hwy,Ramp,-33.59298034,151.171638,,Train,NSW
+228,Cowan,Pacific,Hwy,Ramp,-33.5937893,151.1715651,,Train,NSW
+229,Cringila,Central,Rd,Stairs,-34.46708061,150.8799583,,Train,NSW
+230,Cringila,Five Island,Rd,Stairs,-34.46737362,150.8782723,,Train,NSW
+231,Cronulla,Cronulla,St,Path,-34.05684046,151.1517217,,Train,NSW
+232,Cronulla,Cronulla,St,Path,-34.05572731,151.1515991,,Train,NSW
+233,Cronulla,Cronulla,St,Path,-34.05535773,151.1514348,,Train,NSW
+234,Croydon,Hennessy,St,Ramp,-33.88283666,151.1155154,,Train,NSW
+235,Croydon,Paisley,Rd,Stairs,-33.8831857,151.1150828,,Train,NSW
+236,Dapto,Station,St,Path,-34.4923588,150.7922224,,Train,NSW
+237,Dapto,Staiton,St,Path,-34.49307785,150.7918339,,Train,NSW
+238,Dapto,Bong Bong,Rd,Path,-34.49348285,150.7914602,,Train,NSW
+239,Dapto,Bong Bong,Rd,Path,-34.493435,150.7913065,,Train,NSW
+240,Denistone,Gordon,Cres,Path,-33.79951928,151.0867539,,Train,NSW
+241,Domestic,Keith Smith,Ave,Stairs,-33.93362671,151.1805736,,Train,NSW
+242,Domestic,Keith Smith,Ave,Lift,-33.93356911,151.1805681,,Train,NSW
+243,Domestic,Keith Smith,Ave,Stairs,-33.93400809,151.1801419,,Train,NSW
+244,Domestic,Keith Smith,Ave,Escalators,-33.93400343,151.1801133,,Train,NSW
+245,Domestic,Keith Smith,Ave,Lift,-33.93398698,151.1800496,,Train,NSW
+246,Doonside,School,Pde,Ramp,-33.76401541,150.8692816,,Train,NSW
+247,Doonside,Cross,St,Ramp,-33.76362795,150.8692347,,Train,NSW
+248,Dora Creek,Main,Rd,Path,-33.0838231,151.5010419,,Train,NSW
+249,Dora Creek,Newport,Rd,Stairs,-33.08411433,151.5008644,,Train,NSW
+250,Dora Creek,Newport,Rd,Stairs,-33.08402158,151.500698,,Train,NSW
+251,Douglas Park,Camden,Rd,Path,-34.18323382,150.7105466,,Train,NSW
+252,Douglas Park,Camden,Rd,Path,-34.18330344,150.7105388,,Train,NSW
+253,Dulwich Grove LR,New Canterbury,Rd,Stairs,-33.904761,151.1390021,,Train,NSW
+254,Dulwich Grove LR,New Canterbury,Rd,Lift,-33.9047721,151.1389753,,Train,NSW
+255,Dulwich Hill LR,Bedford,Cres,Stairs,-33.9106718,151.1405847,,Train,NSW
+256,Dulwich Hill LR,Bedford,Cres,Lift,-33.9106266,151.1405558,,Train,NSW
+257,Dundas,Station,St,Path,-33.80402698,151.0331103,,Train,NSW
+258,Dundas,Kissing Point,Rd,Ramp,-33.80388354,151.0329178,,Train,NSW
+259,Dundas,Kissing Point,Rd,Stairs,-33.80389499,151.0328954,,Train,NSW
+260,Dundas,Kissing Point,Rd,Path,-33.80339752,151.032467,,Train,NSW
+261,Dungog,Brown,St,Ramp,-32.40255754,151.759385,,Train,NSW
+262,Dungog,Brown,St,Stairs,-32.40249309,151.759251,,Train,NSW
+263,East Hills,Thompson,Lane,Path,-33.96201112,150.9847269,,Train,NSW
+264,East Hills,Park,Rd,Ramp,-33.96157358,150.9844493,,Train,NSW
+265,East Hills,Park,Rd,Stairs,-33.96164228,150.9843435,,Train,NSW
+266,East Hills,Park,Rd,Ramp,-33.96173087,150.9842552,,Train,NSW
+267,East Maitland,Melbourne,St,Stairs,-32.74457268,151.5874741,,Train,NSW
+268,East Richmond,Bourke,St,Ramp,-33.60180319,150.7588294,,Train,NSW
+269,East Richmond,Bourke,St,Stairs,-33.6017457,150.7587291,,Train,NSW
+270,Eastwood,Railway,Pde,Ramp,-33.78992993,151.0826671,,Train,NSW
+271,Eastwood,Railway,Pde,Ramp,-33.79041058,151.0826361,,Train,NSW
+272,Eastwood,Railway,Pde,Lift,-33.79017064,151.0825639,,Train,NSW
+273,Eastwood,West,Pde,Lift,-33.79014905,151.0820022,,Train,NSW
+274,Eastwood,West,Pde,Path,-33.79014802,151.0819726,,Train,NSW
+275,Edgecliff,New South Head,Rd,Path,-33.87893677,151.236154,,Train,NSW
+276,Edmondson Park,Soliders,Pde,Lift,-33.96930476,150.8588642,,Train,NSW
+277,Edmondson Park,Soliders,Pde,Stairs,-33.96936246,150.8588449,,Train,NSW
+278,Emu Plains,Old Bathurst,Rd,Stairs,-33.74577768,150.6714125,,Train,NSW
+279,Emu Plains,Mackellar,St,Stairs,-33.74552422,150.6713807,,Train,NSW
+280,Emu Plains,Old Bathurst,Rd,Lift,-33.74582701,150.6713326,,Train,NSW
+281,Emu Plains,Mackellar,St,Lift,-33.74565742,150.6712836,,Train,NSW
+282,Engadine,Princes,Hwy,Ramp,-34.06753979,151.0148428,,Train,NSW
+283,Engadine,Princes,Hwy,Ramp,-34.06719539,151.0147353,,Train,NSW
+284,Engadine,Princes,Hwy,Lift,-34.06776904,151.0146815,,Train,NSW
+285,Engadine,Princes,Hwy,Lift,-34.06738183,151.0145516,,Train,NSW
+286,Epping,Langston,Pl,Path,-33.77254801,151.0822785,,Train,NSW
+287,Epping,Beecroft,Rd,Stairs,-33.77284112,151.0818724,,Train,NSW
+288,Epping,Beecroft,Rd,Lift,-33.77265225,151.0818045,,Train,NSW
+289,Epping,Beecroft,Rd,Stairs,-33.77291584,151.0816408,,Train,NSW
+290,Epping,Beecroft,Rd,Lift,-33.77272037,151.0815679,,Train,NSW
+291,Ersineville,Erskineville,Rd,Path,-33.90005302,151.1855565,,Train,NSW
+292,Exeter,Ringwood,Rd,Path,-34.61346677,150.3177998,,Train,NSW
+293,Exeter,Bundanoon,Rd,Path,-34.61337723,150.3173592,,Train,NSW
+294,Exhibition Centre LR,Darling,Dr,Ramp,-33.87677819,151.1994751,,Train,NSW
+295,Exhibition Centre LR,Pyrmont,St,Stairs,-33.87678771,151.1992504,,Train,NSW
+296,Fairfield,Dale,St,Path,-33.87255271,150.957049,,Train,NSW
+297,Fairfield,Dale,St,Stairs,-33.87250991,150.9570068,,Train,NSW
+298,Fairfield,The Crescent,,Path,-33.87228222,150.9568998,,Train,NSW
+299,Fairfield,The Crescent,,Stairs,-33.87238918,150.9568642,,Train,NSW
+300,Fairfield,Dale,St,Lift,-33.87264464,150.9568189,,Train,NSW
+301,Fairfield,The Crescent,,Lift,-33.87249718,150.956712,,Train,NSW
+302,Fairy Meadow,Elliotts,Rd,Stairs,-34.39509691,150.8965771,,Train,NSW
+303,Fairy Meadow,Elliotts,Rd,Stairs,-34.39505996,150.8964522,,Train,NSW
+304,Fassifern,Tucker,Cl,Ramp,-32.98567466,151.5812081,,Train,NSW
+305,Fassifern,Tucker,Cl,Stairs,-32.98568106,151.5811753,,Train,NSW
+306,Fassifern,Tucker,Cl,Ramp,-32.98557663,151.5808417,,Train,NSW
+307,Faulconbridge,Great Western,Hwy,Ramp,-33.69681647,150.5349352,,Train,NSW
+308,Faulconbridge,Great Western,Hwy,Stairs,-33.69678014,150.5349261,,Train,NSW
+309,Faulconbridge,Great Western,Hwy,Stairs,-33.69654047,150.534819,,Train,NSW
+310,Faulconbridge,Great Western,Hwy,Stairs,-33.69633199,150.534567,,Train,NSW
+311,Faulconbridge,Great Western,Hwy,Ramp,-33.69636984,150.5344309,,Train,NSW
+312,Fish Market LR,Miller,St,Path,-33.87046367,151.1921783,,Train,NSW
+313,Fish Market LR,Miller,St,Path,-33.87076898,151.1916529,,Train,NSW
+314,Flemington,The Crescent,,Stairs,-33.86515478,151.0706765,,Train,VIC
+315,Flemington,The Crescent,,Stairs,-33.86389281,151.0702391,,Train,VIC
+316,Gerringong,Belinda,St,Ramp,-34.74477882,150.8176504,,Train,NSW
+317,Glebe LR,Burton,St,Stairs,-33.87707686,151.1875647,,Train,NSW
+318,Glebe LR,Bayview,St,Ramp,-33.87729496,151.187253,,Train,NSW
+319,Glenbrook,Burfitt,Pde,Ramp,-33.76902646,150.6212638,,Train,NSW
+320,Glenfield,Railway,Pde,Stairs,-33.97207776,150.8935775,,Train,NSW
+321,Glenfield,service road,,Stairs,-33.97173912,150.893269,,Train,NSW
+322,Glenfield,Railway,Pde,Lift,-33.97228674,150.8932557,,Train,NSW
+323,Glenfield,service road,,Lift,-33.97183034,150.8931736,,Train,NSW
+324,Glenfield,Railway,Pde,Stairs,-33.9724757,150.8931251,,Train,NSW
+325,Gordon,Werona,Ave,Ramp,-33.75598413,151.1548641,,Train,NSW
+326,Gordon,Werona,Ave,Ramp,-33.75535054,151.154396,,Train,NSW
+327,Gordon,St Johns,Ave,Stairs,-33.75612016,151.1541758,,Train,NSW
+328,Gordon,St Johns,Ave,Ramp,-33.75596499,151.1540965,,Train,NSW
+329,Gordon,Wade,Lane,Ramp,-33.75568255,151.1539778,,Train,NSW
+330,Gosford,Burns,Cres,Lift,-33.42348002,151.3419443,,Train,NSW
+331,Gosford,Burns,Cres,Stairs,-33.42348165,151.341911,,Train,NSW
+332,Gosford,Showground,Rd,Stairs,-33.4233302,151.3414142,,Train,NSW
+333,Gosford,Showground,Rd,Path,-33.42338314,151.3414013,,Train,NSW
+334,Goulburn,Sloane,St,Path,-34.75901982,149.7205882,,Train,NSW
+335,Goulburn,Park,Rd,Path,-34.75812698,149.7192494,,Train,NSW
+336,Granville,Memorial,Dr,Ramp,-33.8327767,151.0114916,,Train,NSW
+337,Granville,Memorial,Dr,Ramp,-33.83290042,151.0114055,,Train,NSW
+338,Green Square,Botany,Rd,Stairs,-33.90596608,151.2030771,,Train,NSW
+339,Green Square,Botany,Rd,Stairs,-33.90581837,151.2030314,,Train,NSW
+340,Green Square,O'Riordan,St,Escalators,-33.90627864,151.2026934,,Train,NSW
+341,Green Square,O'Riordan,St,Lift,-33.90621492,151.2025402,,Train,NSW
+342,Greta,Nelson,St,Ramp,-32.68678796,151.384282,,Train,NSW
+343,Greta,Mansfield,St,Ramp,-32.68667582,151.3840538,,Train,NSW
+344,Guildford,Railway,Tce,Ramp,-33.854233,150.9846821,,Train,NSW
+345,Guildford,Military,Rd,Ramp,-33.8538226,150.984647,,Train,NSW
+346,Guildford,Railway,Tce,Stairs,-33.85444912,150.9845955,,Train,NSW
+347,Guildford,Railway,Tce,Lift,-33.85456824,150.9844866,,Train,NSW
+348,Guildford,Military,Rd,Ramp,-33.85416769,150.9844037,,Train,NSW
+349,Guildford,Military,Rd,Stairs,-33.85425733,150.9843285,,Train,NSW
+350,Guildford,Military,Rd,Stairs,-33.85433088,150.9842777,,Train,NSW
+351,Guildford,Military,Rd,Lift,-33.85449232,150.984227,,Train,NSW
+352,Gymea,Gymea Bay,Rd,Lift,-34.03490791,151.0852082,,Train,NSW
+353,Gymea,Gymea Bay,Rd,Stairs,-34.03487034,151.0851825,,Train,NSW
+354,Hamilton,Beaumont ,St,Stairs,-32.91802537,151.7485113,,Train,NSW
+355,Hamilton,Beaumont ,St,Ramp,-32.9185304,151.7483975,,Train,NSW
+356,Hamilton,Beaumont ,St,Stairs,-32.91838537,151.7482699,,Train,NSW
+357,Hamilton,Beaumont ,St,Ramp,-32.91841859,151.7482552,,Train,NSW
+358,Harris Park,Marion,St,Ramp,-33.82335758,151.0079326,,Train,NSW
+359,Harris Park,Station W,St,Stairs,-33.82326239,151.0074636,,Train,NSW
+360,Hawkesbury River,Danger,Rd,Stairs,-33.54700863,151.2267151,,Train,NSW
+361,Hawkesbury River,Danger,Rd,Stairs,-33.54710145,151.2265988,,Train,NSW
+362,Hawthorne LR,Darley,Rd,Path,-33.87958216,151.1475502,,Train,NSW
+363,Hawthorne LR,Darley,Rd,Path,-33.8795003,151.1471067,,Train,NSW
+364,Hazelbrook,Great Western,Hwy,Stairs,-33.72353033,150.454573,,Train,NSW
+365,Hazelbrook,Great Western,Hwy,Ramp,-33.72308654,150.454017,,Train,NSW
+366,Hazelbrook,Railway,Pde,Path,-33.72367342,150.4539673,,Train,NSW
+367,Heathcote,Wilson,Pde,Path,-34.08792484,151.0084291,,Train,NSW
+368,Heathcote,Wilson,Pde,Ramp,-34.08793975,151.0084144,,Train,NSW
+369,Heathcote,Princes,Hwy,Ramp,-34.0877856,151.008298,,Train,NSW
+370,Heathcote,Princes,Hwy,Path,-34.08780235,151.0082859,,Train,NSW
+371,Helensburgh,Tunnel,Rd,Lift,-34.17718912,150.9942468,,Train,NSW
+372,Helensburgh,Tunnel,Rd,Stairs,-34.17714736,150.9940859,,Train,NSW
+373,Hexham,Maitland ,Rd,Stairs,-32.8287522,151.68432,,Train,NSW
+374,High Street,High,St,Stairs,-32.7413273,151.5644242,,Train,NSW
+375,High Street,Le Darcy,Dr,Ramp,-32.74197207,151.5641955,,Train,NSW
+376,Hilldale,Hilldale,Rd,Ramp,-32.50448435,151.649805,,Train,NSW
+377,Holsworthy,The Boulevarde,,Stairs,-33.96292706,150.9565045,,Train,NSW
+378,Holsworthy,The Boulevarde,,Ramp,-33.96297936,150.9564564,,Train,NSW
+379,Holsworthy,The Boulevarde,,Lift,-33.96282915,150.9563519,,Train,NSW
+380,Homebush,Loftus,Cres,Stairs,-33.86641951,151.0864214,,Train,NSW
+381,Homebush,The Crescent,,Ramp,-33.866968,151.0861075,,Train,NSW
+382,Homebush,The Crescent,,Stairs,-33.8669269,151.0860951,,Train,NSW
+383,Hornsby,Hunter,Lane,Ramp,-33.703839,151.099774,,Train,NSW
+384,Hornsby,George,St,Ramp,-33.70355385,151.0988427,,Train,NSW
+385,Hornsby,George,St,Stairs,-33.70356981,151.0988312,,Train,NSW
+386,Hornsby,George,St,Ramp,-33.70373548,151.0987466,,Train,NSW
+387,Hornsby,Station,St,Path,-33.70347962,151.0980916,,Train,NSW
+388,Dulwich Hill,Wardell,Rd,Stairs,-33.91105837,151.1411463,,Train,NSW
+389,Hurlstone Park,Duntroon,St,Path,-33.91018981,151.1325419,,Train,NSW
+390,Hurstville,Forest,Rd,Stairs,-33.96703441,151.1028477,,Train,NSW
+391,Hurstville,Ormonde,Pde,Stairs,-33.96768463,151.102359,,Train,NSW
+392,Hurstville,Ormonde,Pde,Lift,-33.96763205,151.1022885,,Train,NSW
+393,Hurstville,Forest,Rd,Ramp,-33.96651714,151.1019021,,Train,NSW
+394,Hurstville,Forest,Rd,Escalators,-33.96651714,151.1019021,,Train,NSW
+395,Ingleburn,Ingleburn,Rd,Stairs,-33.99743831,150.8648758,,Train,NSW
+396,Ingleburn,Ingleburn,Rd,Ramp,-33.99760206,150.8646186,,Train,NSW
+397,Ingleburn,Ingleburn,Rd,Stairs,-33.9978895,150.8643778,,Train,NSW
+398,Ingleburn,Stanley,Rd,Ramp,-33.99742169,150.8643133,,Train,NSW
+399,Ingleburn,Stanley,Rd,Stairs,-33.99757653,150.8640104,,Train,NSW
+400,International,Departure,Plza,Escalators,-33.93518102,151.166541,,Train,NSW
+401,International,Departure,Plza,Lift,-33.93520792,151.1664707,,Train,NSW
+402,International,Departure,Plza,Lift,-33.93519882,151.1664469,,Train,NSW
+403,Jannali,Railway,Cres,Ramp,-34.01609101,151.0648408,,Train,NSW
+404,Jannali,Railway,Cres,Path,-34.0158836,151.0647566,,Train,NSW
+405,Jannali,Mitchell,Ave,Ramp,-34.01599453,151.0643704,,Train,NSW
+406,John Street Square LR,Harris,St,Ramp,-33.86726224,151.1924304,,Train,NSW
+407,John Street Square LR,Harvey,St,Stairs,-33.86716237,151.192075,,Train,NSW
+408,Jubilee Park LR,Chapman,Rd,Stairs,-33.87532035,151.1786149,,Train,NSW
+409,Jubilee Park LR,Chapman,Rd,Ramp,-33.87533885,151.1785977,,Train,NSW
+410,Jubilee Park LR,Chapman,Rd,Ramp,-33.87556013,151.1783683,,Train,NSW
+411,Katoomba,Goldsmith,Pl,Ramp,-33.71194806,150.3121686,,Train,NSW
+412,Katoomba,Bathurst,Rd,Ramp,-33.71227605,150.3121389,,Train,NSW
+413,Katoomba,Bathurst,Rd,Lift,-33.7122822,150.3119825,,Train,NSW
+414,Katoomba,Bathurst,Rd,Stairs,-33.71225211,150.3117845,,Train,NSW
+415,Kembla Grange,West Dapto,,Ramp,-34.47012644,150.8177961,,Train,NSW
+416,Kiama,Railway,Pde,Path,-34.67259919,150.8543663,,Train,NSW
+417,Killara,Werona,Ave,Stairs,-33.76569485,151.1620999,,Train,NSW
+418,Killara,Culworth,Ave,Stairs,-33.76585281,151.1617973,,Train,NSW
+419,Kings Cross,Victoria,St,Stairs,-33.87403189,151.2225037,,Train,NSW
+420,Kings Cross,Victoria,St,Lift,-33.87426901,151.2222047,,Train,NSW
+421,Kings Cross,Victoria,St,Stairs,-33.87423751,151.2221958,,Train,NSW
+422,Kingsgrove,Kingsgrove,Rd,Stairs,-33.94037591,151.1010846,,Train,NSW
+423,Kingsgrove,Kingsgrove,Rd,Lift,-33.94048039,151.100874,,Train,NSW
+424,Kingsgrove,Kingsgrove,Rd,Stairs,-33.94045759,151.1008569,,Train,NSW
+425,Kingswood,Richmond,Rd,Ramp,-33.75823391,150.7202398,,Train,NSW
+426,Kingswood,Great Western ,Hwy,Lift,-33.75842616,150.720233,,Train,NSW
+427,Kingswood,Richmond,Rd,Stairs,-33.75823344,150.7201166,,Train,NSW
+428,Kingswood,Great Western ,Hwy,Stairs,-33.75836745,150.720071,,Train,NSW
+429,Kirrawee,Oak,Rd,Path,-34.03491126,151.0710203,,Train,NSW
+430,Kogarah,Regent,St,Stairs,-33.96279661,151.1326915,,Train,NSW
+431,Kogarah,Regent,St,Lift,-33.9627467,151.1326877,,Train,NSW
+432,Kogarah,Station,St,Stairs,-33.96260526,151.1322014,,Train,NSW
+433,Kogarah,Station,St,Lift,-33.96264352,151.1321917,,Train,NSW
+434,Kogarah,Station,St,Stairs,-33.96268807,151.1321451,,Train,NSW
+435,Kogarah,Station,St,Ramp,-33.96279569,151.1321022,,Train,NSW
+436,Koolewong,Glenrock,Pde,Stairs,-33.46613312,151.3184763,,Train,NSW
+437,Koolewong,Glenrock,Pde,Stairs,-33.46614412,151.3183699,,Train,NSW
+438,Kotara,Park,Ave,Stairs,-32.94176982,151.6980592,,Train,NSW
+439,Kotara,Kotara,Pl,Ramp,-32.94136917,151.6974634,,Train,NSW
+440,Lakemba,The Boulevarde,,Lift,-33.92010158,151.0763703,,Train,NSW
+441,Lakemba,Railway,Pde,Lift,-33.91988075,151.0762517,,Train,NSW
+442,Lakemba,Railway,Pde,Stairs,-33.919759,151.0761338,,Train,NSW
+443,Lapstone,Explorers,Rd,Ramp,-33.77327862,150.6426352,,Train,NSW
+444,Lapstone,Explorers,Rd,Stairs,-33.77355931,150.6426108,,Train,NSW
+445,Lawson,Honour,Ave,Ramp,-33.71950783,150.4304172,,Train,ACT
+446,Lawson,Great Western,Hwy,Ramp,-33.71914265,150.4300609,,Train,ACT
+447,Lawson,Lotus,St,Ramp,-33.7189722,150.4296065,,Train,ACT
+448,Lawson,Great Western,Hwy,Ramp,-33.71943599,150.4294992,,Train,ACT
+449,Leichhardt North LR,James,St,Lift,-33.87498002,151.1550356,,Train,NSW
+450,Leichhardt North LR,James,St,Stairs,-33.87499429,151.1550175,,Train,NSW
+451,Leichhardt North LR,City West Link,Rd,Path,-33.874998,151.1535804,,Train,NSW
+452,Leightonfield,Monier,Sq,Ramp,-33.88189412,150.9851028,,Train,NSW
+453,Leightonfield,Christina,Rd,Ramp,-33.88126383,150.984962,,Train,NSW
+454,Leppingon,Rickard,Rd,Stairs,-33.95443956,150.8082668,,Train,NSW
+455,Leppingon,Rickard,Rd,Lift,-33.95451545,150.8082463,,Train,NSW
+456,Leumeah,O'Sullivan,Rd,Lift,-34.05067487,150.8308056,,Train,NSW
+457,Leumeah,Plough Inn,Rd,Path,-34.05031272,150.8307679,,Train,NSW
+458,Leumeah,Old Leumeah,Rd,Ramp,-34.05080184,150.8307251,,Train,NSW
+459,Leumeah,Old Leumeah,Rd,Stairs,-34.05081332,150.8307025,,Train,NSW
+460,Leumeah,O'Sullivan,Rd,Stairs,-34.05089506,150.830574,,Train,NSW
+461,Leumeah,Plough Inn,Rd,Lift,-34.0504822,150.8305609,,Train,NSW
+462,Leumeah,O'Sullivan,Rd,Ramp,-34.05102916,150.8304338,,Train,NSW
+463,Leura,Railway,Pde,Stairs,-33.71212061,150.3311289,,Train,NSW
+464,Lewisham,Thomas ,St,Stairs,-33.8931095,151.1475983,,Train,NSW
+465,Lewisham,Railway,Tce,Stairs,-33.8936359,151.1475441,,Train,NSW
+466,Lewisham West LR,Hudson,St,Path,-33.89385044,151.1434623,,Train,NSW
+467,Lewisham West LR,Smith,St,Path,-33.8937862,151.1433429,,Train,NSW
+468,Lidcombe,Church,St,Path,-33.86353155,151.0450641,,Train,NSW
+469,Lidcombe,Church,St,Lift,-33.86346008,151.0447924,,Train,NSW
+470,Lidcombe,Railway,St,Stairs,-33.86386973,151.0446447,,Train,NSW
+471,Lidcombe,Railway,St,Lift,-33.86386787,151.0446069,,Train,NSW
+472,Lidcombe,Church,St,Stairs,-33.86338085,151.0445549,,Train,NSW
+473,Lidcombe,Railway,St,Stairs,-33.863756,151.044279,,Train,NSW
+474,Lilyfield LR,Catherine ,St,Ramp,-33.87419537,151.1648238,,Train,NSW
+475,Lilyfield LR,Catherine ,St,Stairs,-33.87411594,151.1647681,,Train,NSW
+476,Linden,Great Western,Hwy,Path,-33.71533075,150.5053218,,Train,NSW
+477,Linden,Burke,Rd,Stairs,-33.71474436,150.5043663,,Train,NSW
+478,Lindfield,Lindfield,Ave,Stairs,-33.77565442,151.1695097,,Train,NSW
+479,Lindfield,Lindfield,Ave,Stairs,-33.77528844,151.1693856,,Train,NSW
+480,Lindfield,Lindfield,Ave,Ramp,-33.77526721,151.1693706,,Train,NSW
+481,Lindfield,Pacific,Hwy,Stairs,-33.77595464,151.1693,,Train,NSW
+482,Lindfield,Lindfield,Ave,Stairs,-33.77508734,151.1692302,,Train,NSW
+483,Lindfield,Pacific,Hwy,Ramp,-33.77573861,151.1691075,,Train,NSW
+484,Lindfield,Pacific,Hwy,Stairs,-33.77570298,151.1690761,,Train,NSW
+485,Lisarow,Pacific,Hwy,Stairs,-33.38218451,151.3701793,,Train,NSW
+486,Lisarow,Pacific,Hwy,Path,-33.38219289,151.3701652,,Train,NSW
+487,Lisarow,Railway,Cres,Stairs,-33.38207165,151.3700848,,Train,NSW
+488,Lisarow,Railway,Cres,Path,-33.38205966,151.3700717,,Train,NSW
+489,Lithgow,Main,St,Path,-33.48092585,150.156929,,Train,NSW
+490,Lithgow,Railway,Pde,Path,-33.48051667,150.1567066,,Train,NSW
+491,Liverpool,Moore,St,Path,-33.92314617,150.927698,,Train,NSW
+492,Liverpool,Biggs,St,Lift,-33.92438493,150.9269976,,Train,NSW
+493,Liverpool,Biggs,St,Stairs,-33.92430468,150.9269377,,Train,NSW
+494,Lochinvar,Station,Lane,Ramp,-32.72048397,151.450531,,Train,NSW
+495,Lochinvar,Station,Lane,Ramp,-32.72039462,151.4504811,,Train,NSW
+496,Loftus,Pitt,St,Ramp,-34.04499976,151.0513888,,Train,NSW
+497,Loftus,Loftus,Ave,Ramp,-34.04545425,151.0512098,,Train,NSW
+498,Lysaghts,Recycling,Rd,Stairs,-34.4548118,150.8752141,,Train,NSW
+499,Macarthur,Menangle ,Rd,Lift,-34.07249292,150.7974781,,Train,ACT
+500,Macarthur,Menangle ,Rd,Lift,-34.07221782,150.7973884,,Train,ACT
+501,Macarthur,Menangle ,Rd,Stairs,-34.07255383,150.7971598,,Train,ACT
+502,Macarthur,Menangle ,Rd,Stairs,-34.0722662,150.7970753,,Train,ACT
+503,Macdonaldtown,Burren,St,Stairs,-33.89679186,151.1853862,,Train,NSW
+504,Macquarie Fields,Railway,Pde,Stairs,-33.98484292,150.8790781,,Train,NSW
+505,Macquarie Fields,Railway,Pde,Ramp,-33.98496652,150.8789376,,Train,NSW
+506,Macquarie Park,Lane Cove,Rd,Lift,-33.78544457,151.128497,,Train,NSW
+507,Macquarie Park,Lane Cove,Rd,Escalators,-33.78536823,151.1284456,,Train,NSW
+508,Macquarie Park,Lane Cove,Rd,Escalators,-33.78507899,151.1280042,,Train,NSW
+509,Macquarie Park,Lane Cove,Rd,Lift,-33.78506256,151.1279791,,Train,NSW
+510,Macquarie University,Herring,Rd,Lift,-33.77743582,151.1184713,,Train,NSW
+511,Macquarie University,Herring,Rd,Escalators,-33.7774169,151.1184131,,Train,NSW
+512,Macquarie University,Herring,Rd,Escalators,-33.77721132,151.1181043,,Train,NSW
+513,Macquarie University,Herring,Rd,Lift,-33.77716806,151.1180933,,Train,NSW
+514,Maitland,Station,St,Path,-32.73774765,151.552236,,Train,NSW
+515,Marayong,Harvey,Rd,Stairs,-33.74622068,150.9003117,,Train,NSW
+516,Marayong,Harvey,Rd,Lift,-33.74601717,150.9003098,,Train,NSW
+517,Marayong,Railway,Pde,Stairs,-33.7462306,150.9000471,,Train,NSW
+518,Marayong,Railway,Pde,Lift,-33.74602227,150.9000423,,Train,NSW
+519,Marion LR,Marion,St,Path,-33.8839155,151.1449963,,Train,NSW
+520,Marrickville,Station,St,Path,-33.9139756,151.153316,,Train,NSW
+521,Marrickville,Illawarra,Rd,Stairs,-33.91375714,151.1532248,,Train,NSW
+522,Marrickville,Illawarra,Rd,Lift,-33.91378174,151.1531819,,Train,NSW
+523,Marrickville,Illawarra,Rd,Lift,-33.91383568,151.1531518,,Train,NSW
+524,Marrickville,Illawarra,Rd,Stairs,-33.91386322,151.1531385,,Train,NSW
+525,Martin Place,Macquarie,St,Stairs,-33.86796254,151.2116241,1,Train,NSW
+526,Martin Place,Phillip,St,Lift,-33.8677258,151.211419,4,Train,NSW
+527,Martin Place,Phillip,St,Stairs,-33.867961,151.2113556,2,Train,NSW
+528,Martin Place,Elizabeth,St,Stairs,-33.86770938,151.2108281,5,Train,NSW
+529,Martin Place,Elizabeth,St,Stairs,-33.86794917,151.2105119,6,Train,NSW
+530,Martin Place,Elizabeth,St,Stairs,-33.86773095,151.2102046,7,Train,NSW
+531,Martins Creek,Grace,Ave,Ramp,-32.55848164,151.618412,,Train,NSW
+532,Marulan,Wollondilly,St,Path,-34.7095012,150.0056778,,Train,NSW
+533,Marulan,Railway,Pde,Path,-34.70959939,150.0056691,,Train,NSW
+534,Mascot,Bourke,St,Stairs,-33.92315955,151.1873924,,Train,NSW
+535,Mascot,Bourke,St,Escalators,-33.92315812,151.1873628,,Train,NSW
+536,Mascot,Bourke,St,Lift,-33.92336325,151.1873396,,Train,NSW
+537,Meadowbank,Constitution,Rd,Lift,-33.81566979,151.0902245,,Train,NSW
+538,Meadowbank,Constitution,Rd,Stairs,-33.81579505,151.0902088,,Train,NSW
+539,Meadowbank,Bank,St,Lift,-33.81562759,151.0899398,,Train,NSW
+540,Meadowbank,Bank,St,Ramp,-33.81555584,151.089916,,Train,NSW
+541,Medlow Bath,Great Western,Hwy,Ramp,-33.67465401,150.2811412,,Train,NSW
+542,Medlow Bath,Great Western,Hwy,Stairs,-33.67295305,150.2803919,,Train,NSW
+543,Menangle,Stevens,Rd,Ramp,-34.12539404,150.7441804,,Train,NSW
+544,Menangle,Stevens,Rd,Path,-34.12585573,150.7440669,,Train,NSW
+545,Menangle Park,Racecourse,Ave,Ramp,-34.10338167,150.7450798,,Train,NSW
+546,Menangle Park,Racecourse,Rd,Ramp,-34.10338507,150.7449509,,Train,NSW
+547,Merrylands,Railway,Tce,Ramp,-33.83669532,150.9926698,,Train,NSW
+548,Merrylands,Terminal,Pl,Ramp,-33.83631419,150.9926662,,Train,NSW
+549,Merrylands,Railway,Tce,Stairs,-33.83680598,150.9925619,,Train,NSW
+550,Merrylands,Railway,Tce,Lift,-33.83690608,150.9923757,,Train,NSW
+551,Merrylands,Railway,Tce,Ramp,-33.83694829,150.992327,,Train,NSW
+552,Merrylands,Terminal,Pl,Stairs,-33.83658243,150.9922814,,Train,NSW
+553,Merrylands,Terminal,Pl,Lift,-33.83679089,150.992228,,Train,NSW
+554,Merrylands,Terminal,Pl,Stairs,-33.83671583,150.9921634,,Train,NSW
+555,Merrylands,Railway,Tce,Stairs,-33.83715442,150.992075,,Train,NSW
+556,Merrylands,Terminal,Pl,Ramp,-33.83685144,150.9920152,,Train,NSW
+557,Merrylands,Terminal,Pl,Stairs,-33.83705075,150.9918377,,Train,NSW
+558,Metford,McCubbin ,Cl,Stairs,-32.76547854,151.6182929,,Train,NSW
+559,Metford,McCubbin ,Cl,Lift,-32.76536099,151.6181329,,Train,NSW
+560,Milsons Point,Ennis,Rd,Ramp,-33.84579562,151.212403,,Train,NSW
+561,Milsons Point,Alfred,St,Path,-33.84594618,151.2117195,,Train,NSW
+562,Mindaribba,Tocal,Rd,Ramp,-32.66835055,151.5845537,,Train,NSW
+563,Minnamurra,North,St,Ramp,-34.62633044,150.8530098,,Train,NSW
+564,Minto,Minto,Rd,Stairs,-34.02750455,150.8426006,,Train,NSW
+565,Minto,Minto,Rd,Lift,-34.02764472,150.8425642,,Train,NSW
+566,Minto,Minto,Rd,Ramp,-34.02776996,150.8425506,,Train,NSW
+567,Minto,Somerset,St,Stairs,-34.02722065,150.8423272,,Train,NSW
+568,Minto,Somerset,St,Lift,-34.0274664,150.842237,,Train,NSW
+569,Minto,Somerset,St,Ramp,-34.02769333,150.8422318,,Train,NSW
+570,Miranda,Kiora,Rd,Stairs,-34.036075,151.1019708,,Train,NSW
+571,Miranda,Kiora,Rd,Ramp,-34.036075,151.1019708,,Train,NSW
+572,Mittagong,Railway,Pde,Stairs,-34.4526389,150.4483852,,Train,NSW
+573,Mittagong,Regent,St,Stairs,-34.45240354,150.4483624,,Train,NSW
+574,Morisset,Macquarie,St,Lift,-33.10903664,151.4882907,,Train,NSW
+575,Morisset,Macquarie,St,Ramp,-33.1090292,151.4882497,,Train,NSW
+576,Morisset,Dora,St,Lift,-33.10883807,151.4881562,,Train,NSW
+577,Morisset,Macquarie,St,Stairs,-33.10907961,151.4881539,,Train,NSW
+578,Morisset,Dora,St,Stairs,-33.10893132,151.48806,,Train,NSW
+579,Morisset,Dora,St,Ramp,-33.10895092,151.4878847,,Train,NSW
+580,Mortdale,Coleborne,Ave,Lift,-33.97112283,151.0810841,,Train,NSW
+581,Mortdale,Coleborne,Ave,Stairs,-33.97123984,151.081009,,Train,NSW
+582,Mortdale,Cook,Lane,Lift,-33.97104094,151.0808798,,Train,NSW
+583,Mortdale,Cook,Lane,Stairs,-33.97116587,151.0808093,,Train,NSW
+584,Moss Vale,Argyle,St,Path,-34.54838916,150.372103,,Train,NSW
+585,Moss Vale,Lackey,Rd,Path,-34.54759291,150.3718707,,Train,NSW
+586,Mount Colah,Pacific,Hwy,Stairs,-33.67129214,151.1150982,,Train,NSW
+587,Mount Druitt,North,Pde,Ramp,-33.76905662,150.8203218,,Train,NSW
+588,Mount Druitt,North,Pde,Stairs,-33.76888448,150.8203141,,Train,NSW
+589,Mount Druitt,North,Pde,Lift,-33.76903287,150.8201866,,Train,NSW
+590,Mount Druitt,North,Pde,Stairs,-33.76940294,150.820177,,Train,NSW
+591,Mount Druitt,Beames,Ave,Lift,-33.76977783,150.8201693,,Train,NSW
+592,Mount Druitt,North,Pde,Lift,-33.76941054,150.8201425,,Train,NSW
+593,Mount Druitt,Beames,Ave,Ramp,-33.7699575,150.8201085,,Train,NSW
+594,Mount Druitt,Beames,Ave,Stairs,-33.76975925,150.819919,,Train,NSW
+595,Mount Druitt,North,Pde,Lift,-33.76885586,150.8198575,,Train,NSW
+596,Mount Druitt,North,Pde,Stairs,-33.76903298,150.8197793,,Train,NSW
+597,Mount Druitt,North,Pde,Stairs,-33.76883389,150.8195934,,Train,NSW
+598,Mount Kurring-gai,Harwood,Ave,Stairs,-33.65382765,151.1370126,,Train,NSW
+599,Mount Kurring-gai,Harwood,Ave,Ramp,-33.65382377,151.1369886,,Train,NSW
+600,Mount Kurring-gai,Pacific,Hwy,Ramp,-33.65376948,151.1365683,,Train,NSW
+601,Mount Victoria,Patrick,St,Stairs,-33.5882678,150.257054,,Train,NSW
+602,Mount Victoria,Station,St,Stairs,-33.58817529,150.256825,,Train,NSW
+603,Mulgrave,Mulgrave,Rd,Ramp,-33.62649899,150.8298983,,Train,NSW
+604,Museum,Elizabeth,St,Stairs,-33.87493423,151.2098618,,Train,NSW
+605,Museum,Elizabeth,St,Escalators,-33.87691361,151.209825,,Train,NSW
+606,Museum,Elizabeth,St,Stairs,-33.87652945,151.2098063,,Train,NSW
+607,Museum,Elizabeth,St,Lift,-33.87659188,151.2097343,,Train,NSW
+608,Museum,Elizabeth,St,Escalators,-33.87482734,151.209529,,Train,NSW
+609,Museum,Liverpool,St,Escalators,-33.87671276,151.2092181,,Train,NSW
+610,Museum,Liverpool,St,Stairs,-33.87669845,151.2091949,,Train,NSW
+611,Muswellbrook,Market,St,Ramp,-32.26744191,150.890863,,Train,NSW
+612,Muswellbrook,Market,St,Stairs,-32.26758584,150.8908038,,Train,NSW
+613,Muswellbrook,Market,St,Stairs,-32.26742612,150.8904619,,Train,NSW
+614,Narara,Goonak,Pde,Path,-33.39478142,151.3445536,,Train,NSW
+615,Narara,Narara Valley,Dr,Stairs,-33.39459444,151.3444334,,Train,NSW
+616,Narara,Narara Valley,Dr,Path,-33.39460601,151.3444151,,Train,NSW
+617,Narwee,Hannans,Rd,Path,-33.9475007,151.0707991,,Train,NSW
+618,Narwee,Hurst,Pl,Path,-33.94783139,151.0706442,,Train,NSW
+619,Newcastle Interchange,Hannell,St,Path,-32.92412867,151.7598672,,Train,NSW
+620,Newcastle Interchange,Hannell,St,Path,-32.92443205,151.7596352,,Train,NSW
+621,Newcastle Interchange,Charles,St,Path,-32.9239171,151.7593884,,Train,NSW
+622,Newcastle Interchange,Cooper,St,Path,-32.92445674,151.7589509,,Train,NSW
+623,Newtown,King,St,Lift,-33.89794821,151.1788919,,Train,NSW
+624,Newtown,King,St,Ramp,-33.89787696,151.1788814,,Train,NSW
+625,Niagara Park,Kathleen Morreau,Rd,Stairs,-33.38322824,151.3545729,,Train,NSW
+626,Niagara Park,Washington,Ave,Stairs,-33.3830702,151.3544041,,Train,NSW
+627,Normanhurst,Denman,Pde,Path,-33.72090894,151.0971516,,Train,NSW
+628,Normanhurst,Malsbury,Rd,Path,-33.72064788,151.0969021,,Train,NSW
+629,North Ryde,Delhi,Rd,Lift,-33.79455215,151.1379256,,Train,NSW
+630,North Ryde,Delhi,Rd,Escalators,-33.79451462,151.1379238,,Train,NSW
+631,North Strathfield,Queen,St,Stairs,-33.85916251,151.0885013,,Train,NSW
+632,North Strathfield,Hamilton,St,Ramp,-33.8597069,151.0882075,,Train,NSW
+633,North Sydney,Blue,St,Path,-33.84102219,151.2074984,,Train,NSW
+634,North Sydney,Blue,St,Path,-33.84100344,151.2073747,,Train,NSW
+635,North Wollongong,Station,St,Stairs,-34.41235075,150.891562,,Train,NSW
+636,North Wollongong,Station,St,Path,-34.41211824,150.8915599,,Train,NSW
+637,North Wollongong,Station,St,Lift,-34.41211138,150.8915284,,Train,NSW
+638,North Wollongong,Porter,St,Lift,-34.41208516,150.8913613,,Train,NSW
+639,North Wollongong,Porter,St,Path,-34.41208744,150.8913264,,Train,NSW
+640,North Wollongong,Porter,St,Stairs,-34.41230685,150.8912482,,Train,NSW
+641,Noth Strathfield,Pomeroy,St,Ramp,-33.85755734,151.0873986,,Train,NSW
+642,Oak Flats,Stanford,Dr,Ramp,-34.57198187,150.8206117,,Train,NSW
+643,Oak Flats,Stanford,Dr,Stairs,-34.57188882,150.8204536,,Train,NSW
+644,Oak Flats,Stanford,Dr,Ramp,-34.57173048,150.8202085,,Train,NSW
+645,Oatley,Oatley,Pde,Lift,-33.98022837,151.0792926,,Train,NSW
+646,Oatley,River,Rd,Stairs,-33.98000494,151.0789686,,Train,NSW
+647,Oatley,Mulga,Rd,Lift,-33.980259,151.0787615,,Train,NSW
+648,Olympic Park,Park,St,Path,-33.8461115,151.070683,,Train,NSW
+649,Olympic Park,Dawn Fraser,Ave,Path,-33.84647873,151.0702876,,Train,NSW
+650,Olympic Park,Murray Rose,Ave,Path,-33.84608649,151.0700814,,Train,NSW
+651,Olympic Park,Dawn Fraser,Ave,Path,-33.84656636,151.0700461,,Train,NSW
+652,Olympic Park,Murray Rose,Ave,Stairs,-33.84617394,151.0698287,,Train,NSW
+653,Olympic Park,Dawn Fraser,Ave,Stairs,-33.84670627,151.0695564,,Train,NSW
+654,Olympic Park,Murray Rose,Ave,Ramp,-33.84634363,151.0694956,,Train,NSW
+655,Olympic Park,Dawn Fraser,Ave,Path,-33.84678557,151.0694563,,Train,NSW
+656,Olympic Park,Murray Rose,Ave,Stairs,-33.84639347,151.0693911,,Train,NSW
+657,Olympic Park,Murray Rose,Ave,Lift,-33.84639439,151.0692489,,Train,NSW
+658,Olympic Park,Dawn Fraser,Ave,Path,-33.84686907,151.0692157,,Train,NSW
+659,Olympic Park,Murray Rose,Ave,Stairs,-33.84647994,151.0690066,,Train,NSW
+660,Olympic Park,Showground,Rd,Path,-33.84698401,151.0682717,,Train,NSW
+661,Otford,Lady Carrington ,Rd,Stairs,-34.21052602,151.0059083,,Train,NSW
+662,Otford,Lady Carrington ,Rd,Ramp,-34.21072283,151.0055213,,Train,NSW
+663,Otford,Station,Rd,Stairs,-34.21109272,151.0055047,,Train,NSW
+664,Ourimbah,Mill,St,Stairs,-33.35965695,151.3702768,,Train,NSW
+665,Ourimbah,Mill,St,Ramp,-33.35955493,151.3701089,,Train,NSW
+666,Ourimbah,Station,St,Path,-33.35969505,151.3697508,,Train,NSW
+667,Ourimbah,Station,St,Path,-33.35937321,151.3697352,,Train,NSW
+668,Paddy's Markets,Hay,St,Path,-33.87925467,151.2027407,,Train,NSW
+669,Paddy's Markets,Hay,St,Path,-33.87933704,151.2026206,,Train,NSW
+670,Padstow,Banks,St,Path,-33.95168459,151.0323447,,Train,NSW
+671,Padstow,Howard,Rd,Ramp,-33.9520945,151.0320242,,Train,NSW
+672,Padstow,Memorial,Dr,Ramp,-33.95176466,151.0319792,,Train,NSW
+673,Padstow,Memorial,Dr,Path,-33.95200543,151.0319661,,Train,NSW
+674,Padstow,Memorial,Dr,Stairs,-33.95170664,151.0319304,,Train,NSW
+675,Panania,Anderson,Ave,Ramp,-33.95413352,150.9982975,,Train,NSW
+676,Panania,Weston,St,Ramp,-33.95440402,150.998267,,Train,NSW
+677,Parramatta,Station,St,Stairs,-33.8178785,151.0063215,,Train,NSW
+678,Parramatta,Liverpool-Parramatta,T-way,Lift,-33.81823772,151.0059293,,Train,NSW
+679,Parramatta,Liverpool-Parramatta,T-way,Stairs,-33.81819896,151.0058847,,Train,NSW
+680,Parramatta,Liverpool-Parramatta,T-way,Stairs,-33.81753109,151.005003,,Train,NSW
+681,Parramatta,Darcy,St,Lift,-33.81707893,151.0049168,,Train,NSW
+682,Parramatta,Liverpool-Parramatta,T-way,Lift,-33.81737628,151.0046956,,Train,NSW
+683,Parramatta,Darcy,St,Stairs,-33.81698089,151.0046804,,Train,NSW
+684,Parramatta,Liverpool-Parramatta,T-way,Escalators,-33.81757268,151.0045096,,Train,NSW
+685,Parramatta,Liverpool-Parramatta,T-way,Stairs,-33.8172046,151.0044433,,Train,NSW
+686,Paterson,Main,St,Stairs,-32.60237058,151.6147645,,Train,NSW
+687,Pendle Hill,Wentworth,Ave,Ramp,-33.80167682,150.9570035,,Train,NSW
+688,Pendle Hill,Wentworth,Ave,Stairs,-33.80127175,150.956549,,Train,NSW
+689,Pendle Hill,Joyce,St,Ramp,-33.80135205,150.9559293,,Train,NSW
+690,Pendle Hill,Joyce,St,Path,-33.80130891,150.9558506,,Train,NSW
+691,Pennant Hills,Railway,St,Stairs,-33.7379301,151.0727775,,Train,NSW
+692,Pennant Hills,Railway,St,Lift,-33.73795586,151.0726265,,Train,NSW
+693,Pennant Hills,Yarrara,Rd,Path,-33.73771583,151.0726063,,Train,NSW
+694,Pennant Hills,Yarrara,Rd,Stairs,-33.73772306,151.0725732,,Train,NSW
+695,Pennant Hills,Railway,St,Ramp,-33.73816108,151.0725647,,Train,NSW
+696,Pennant Hills,Yarrara,Rd,Lift,-33.73786579,151.0724987,,Train,NSW
+697,Penrith,Combewood,Ave,Stairs,-33.74985862,150.6965761,,Train,NSW
+698,Penrith,Combewood,Ave,Lift,-33.74985115,150.6965045,,Train,NSW
+699,Penrith,Jane,St,Stairs,-33.75029054,150.6964713,,Train,NSW
+700,Penrith,Jane,St,Lift,-33.75028162,150.6964333,,Train,NSW
+701,Penrith,Jane,St,Stairs,-33.75018886,150.6961967,,Train,NSW
+702,Penrose,Penrose,Rd,Path,-34.67230549,150.2122744,,Train,NSW
+703,Penrose,Kareela,Rd,Path,-34.6721605,150.212086,,Train,NSW
+704,Penshurst,Bridge,Rd,Stairs,-33.96608121,151.0888374,,Train,NSW
+705,Penshurst,Laycock,Rd,Ramp,-33.96633248,151.088801,,Train,NSW
+706,Penshurst,Laycock,Rd,Stairs,-33.96631991,151.0887138,,Train,NSW
+707,Penshurst,Bridge,Rd,Lift,-33.96609707,151.0886682,,Train,NSW
+708,Petersham,Trafalgar,St,Stairs,-33.89402275,151.1557675,,Train,NSW
+709,Petersham,Terminus,St,Stairs,-33.8936064,151.1555418,,Train,NSW
+710,Picton,Prince,St,Stairs,-34.17964863,150.612881,,Train,NSW
+711,Picton,Station,St,Stairs,-34.17927875,150.6127309,,Train,NSW
+712,Picton,Prince,St,Stairs,-34.17968277,150.6127042,,Train,NSW
+713,Picton,Station,St,Lift,-34.17921166,150.6126647,,Train,NSW
+714,Point Clare,Kurrawa,Ave,Stairs,-33.44630072,151.3285267,,Train,NSW
+715,Point Clare,Brisbane Water,Dr,Stairs,-33.44618258,151.3282641,,Train,NSW
+716,Point Clare,Brisbane Water,Dr,Ramp,-33.44621399,151.3282199,,Train,NSW
+717,Port Kembla,Old Port,Rd,Ramp,-34.47718852,150.9028567,,Train,NSW
+718,Port Kembla North,Flinders,St,Stairs,-34.47297995,150.8873269,,Train,NSW
+719,Port Kembla North,Flinders,St,Stairs,-34.47312925,150.8870415,,Train,NSW
+720,Punchbowl,Punchbowl,Rd,Stairs,-33.92525226,151.0555798,,Train,NSW
+721,Punchbowl,The Boulevarde,,Stairs,-33.92556758,151.0555716,,Train,NSW
+722,Pymble,Grandview,St,Stairs,-33.74463831,151.1422732,,Train,NSW
+723,Pymble,Pacific,Hwy,Stairs,-33.74498339,151.1421989,,Train,NSW
+724,Pyrmont Bay LR,Murray,St,Path,-33.869535,151.197707,,Train,NSW
+725,Quakers Hill,Pearce,Rd,Lift,-33.72731055,150.886272,,Train,NSW
+726,Quakers Hill,Pearce,Rd,Stairs,-33.72721559,150.8862174,,Train,NSW
+727,Quakers Hill,Railway,Pde,Lift,-33.72743142,150.8860389,,Train,NSW
+728,Quakers Hill,Railway,Pde,Stairs,-33.72721417,150.8858872,,Train,NSW
+729,Redfern,Gibbons,St,Path,-33.8920298,151.1995113,,Train,NSW
+730,Redfern,Lawson,St,Path,-33.891563,151.198824,,Train,NSW
+731,Redfern,Marian,St,Stairs,-33.89270463,151.1981812,,Train,NSW
+732,Regents Park,Amy,St,Path,-33.8833513,151.0241784,,Train,NSW
+733,Regents Park,Park,Rd,Stairs,-33.88311577,151.0237932,,Train,NSW
+734,Regents Park,Park,Rd,Ramp,-33.88324672,151.0237008,,Train,NSW
+735,Revesby,Blamey,St,Stairs,-33.95270727,151.0154862,,Train,NSW
+736,Revesby,Marco,Ave,Lift,-33.95235886,151.0153198,,Train,NSW
+737,Revesby,Marco,Ave,Stairs,-33.95231174,151.0152774,,Train,NSW
+738,Revesby,Blamey,St,Lift,-33.95273626,151.0152327,,Train,NSW
+739,Rhodes,Blaxland,Rd,Stairs,-33.83067679,151.0872367,,Train,NSW
+740,Rhodes,Blaxland,Rd,Lift,-33.83064963,151.0872234,,Train,NSW
+741,Rhodes,Walker,St,Lift,-33.83045691,151.0868768,,Train,NSW
+742,Rhodes,Walker,St,Stairs,-33.83064015,151.0868216,,Train,NSW
+743,Richmond,E Market,St,Stairs,-33.59877109,150.7523098,,Train,NSW
+744,Richmond,E Market,St,Ramp,-33.5988545,150.7522539,,Train,NSW
+745,Riverstone,Garfield,Rd W,Path,-33.67976814,150.860729,,Train,NSW
+746,Riverstone,Garfield,Rd W,Path,-33.67985685,150.8605208,,Train,NSW
+747,Riverstone,Riverstone,Pde,Path,-33.67905167,150.8604401,,Train,NSW
+748,Riverwood,Belmore,Rd,Path,-33.9514708,151.0525622,,Train,NSW
+749,Riverwood,Belmore,Rd,Stairs,-33.95160087,151.0525497,,Train,NSW
+750,Rockdale,Geeves,Lane,Stairs,-33.9523035,151.1369871,,Train,NSW
+751,Rockdale,Geeves,Lane,Lift,-33.95248742,151.1368614,,Train,NSW
+752,Rockdale,Geeves,Lane,Stairs,-33.95258099,151.1368441,,Train,NSW
+753,Rockdale,Railway,St,Ramp,-33.95191037,151.1364413,,Train,NSW
+754,Rockdale,Railway,St,Stairs,-33.95221004,151.1362805,,Train,NSW
+755,Rooty Hill,Beames,Ave,Stairs,-33.77188219,150.8444618,,Train,NSW
+756,Rooty Hill,North ,Pde,Stairs,-33.7714864,150.8442846,,Train,NSW
+757,Rooty Hill,Beames,Ave,Ramp,-33.77201339,150.844247,,Train,NSW
+758,Rooty Hill,Rooty Hill North,Rd,Ramp,-33.77124814,150.8438721,,Train,NSW
+759,Rosehill,James Ruse,Dr,Stairs,-33.82303843,151.0222311,,Train,NSW
+760,Rosehill,James Ruse,Dr,Stairs,-33.82322002,151.0222102,,Train,NSW
+761,Rosehill,James Ruse,Dr,Ramp,-33.82308432,151.0218152,,Train,NSW
+762,Roseville,Hill,St,Ramp,-33.78434859,151.1778664,,Train,NSW
+763,Roseville,Pacific,Hwy,Ramp,-33.7846798,151.177749,,Train,NSW
+764,Rozelle Bay LR,Bayview,Cres,Ramp,-33.87185725,151.1729488,,Train,NSW
+765,Rozelle Bay LR,Bayview,Cres,Ramp,-33.8719533,151.1729143,,Train,NSW
+766,Rozelle Bay LR,The Crescent,,Stairs,-33.8717488,151.1728699,,Train,NSW
+767,Rydalmere,Brodie,St,Path,-33.81015641,151.0294797,,Train,NSW
+768,Sandgate,Astra,St,Stairs,-32.87279417,151.7028016,,Train,NSW
+769,Scarborough,Railway,Ave,Stairs,-34.2656783,150.9654965,,Train,NSW
+770,Scarborough,Railway,Ave,Stairs,-34.26551615,150.9651941,,Train,NSW
+771,Schofields,Railway,Tce,Path,-33.70483553,150.8742383,,Train,NSW
+772,Schofields,Railway,Tce,Lift,-33.7044383,150.8740174,,Train,NSW
+773,Schofields,Railway,Tce,Stairs,-33.70418713,150.8739328,,Train,NSW
+774,Schofields,Bridge,St,Lift,-33.70454498,150.8736108,,Train,NSW
+775,Schofields,Bridge,St,Stairs,-33.7043178,150.8735269,,Train,NSW
+776,Scone,Susan,St,Path,-32.04670656,150.8670728,,Train,NSW
+777,Sefton,Helen,St,Lift,-33.88516272,151.0118417,,Train,NSW
+778,Sefton,Wellington,Rd,Lift,-33.88549648,151.0117978,,Train,NSW
+779,Sefton,Helen,St,Stairs,-33.88516069,151.0116714,,Train,NSW
+780,Sefton,Wellington,Rd,Stairs,-33.88543207,151.0116221,,Train,NSW
+781,Seven Hills,Prospect,Hwy,Stairs,-33.77410577,150.9361911,,Train,NSW
+782,Seven Hills,The Hills,Cres,Lift,-33.77455756,150.9361722,,Train,NSW
+783,Seven Hills,Prospect,Hwy,Lift,-33.77407161,150.9360893,,Train,NSW
+784,Seven Hills,Prospect,Hwy,Ramp,-33.77410285,150.9359253,,Train,NSW
+785,Seven Hills,The Hills,Cres,Ramp,-33.77452,150.935432,,Train,NSW
+786,Shellharbour,Piper,Dr,Lift,-34.59125149,150.8448185,,Train,NSW
+787,Shellharbour,Piper,Dr,Stairs,-34.5913074,150.8448018,,Train,NSW
+788,Shellharbour,Piper,Dr,Lift,-34.59122591,150.8446697,,Train,NSW
+789,Shellharbour,Piper,Dr,Stairs,-34.59128718,150.8446519,,Train,NSW
+790,Singleton,Munro,St,Ramp,-32.57196082,151.1656827,,Train,NSW
+791,Singleton,Munro,St,Ramp,-32.5718537,151.1655409,,Train,NSW
+792,Singleton,Munro,St,Path,-32.57183342,151.1654861,,Train,NSW
+793,Springwood,Macquarie ,Rd,Stairs,-33.69918984,150.5636973,,Train,NSW
+794,Springwood,Macquarie ,Rd,Ramp,-33.69936145,150.5635226,,Train,NSW
+795,Springwood,Station,St,Ramp,-33.69896475,150.5633045,,Train,NSW
+796,St James,James,Rd,Stairs,-33.86992775,151.2114985,,Train,VIC
+797,St James,James,Rd,Ramp,-33.87003326,151.2112893,,Train,VIC
+798,St James,Elizabeth,St,Lift,-33.870678,151.2104842,,Train,VIC
+799,St James,Elizabeth,St,Stairs,-33.87074951,151.2104486,,Train,VIC
+800,St Leonards,Sergeants,Lane,Stairs,-33.82224634,151.1947629,,Train,NSW
+801,St Leonards,Sergeants,Lane,Lift,-33.82222391,151.1947607,,Train,NSW
+802,St Leonards,Herbert,St,Lift,-33.82232319,151.1936479,,Train,NSW
+803,St Leonards,Herbert,St,Stairs,-33.82231649,151.1936088,,Train,NSW
+804,St Leonards,Herbert,St,Stairs,-33.82246257,151.1934322,,Train,NSW
+805,St Leonards,Herbert,St,Lift,-33.82243079,151.1933676,,Train,NSW
+806,St Marys,Forrester,Rd,Lift,-33.76189765,150.7751589,,Train,NSW
+807,St Marys,Station,St,Lift,-33.76235089,150.7750575,,Train,NSW
+808,St Marys,Forrester,Rd,Stairs,-33.76188001,150.7749259,,Train,NSW
+809,St Marys,Station,St,Stairs,-33.76231824,150.774872,,Train,NSW
+810,St Peters,May,Lane,Path,-33.90745391,151.1808612,,Train,NSW
+811,St Peters,Lord,St,Path,-33.90694267,151.1806495,,Train,NSW
+812,Stanmore,Douglas,St,Ramp,-33.89416485,151.1642047,,Train,NSW
+813,Stanmore,Trafalgar,St,Ramp,-33.89467603,151.1641571,,Train,NSW
+814,Stanwell Park,Railway,Cres,Stairs,-34.22618328,150.9812344,,Train,NSW
+815,Stanwell Park,Railway,Cres,Stairs,-34.22614425,150.9810046,,Train,NSW
+816,Strathfield,Everton,Rd,Lift,-33.87146835,151.0946037,,Train,NSW
+817,Strathfield,Everton,Rd,Stairs,-33.87134403,151.0944811,,Train,NSW
+818,Strathfield,Strathfield,Sq,Ramp,-33.87220808,151.0942838,,Train,NSW
+819,Strathfield,Albert,Rd,Ramp,-33.87185964,151.0938299,,Train,NSW
+820,Summer Hill,Grosvenor ,Cres,Stairs,-33.8901592,151.1389449,,Train,NSW
+821,Summer Hill,Carlton,Cres,Lift,-33.89053286,151.1389072,,Train,NSW
+822,Summer Hill,Grosvenor ,Cres,Lift,-33.89010644,151.1387528,,Train,NSW
+823,Summer Hill,Carlton,Cres,Stairs,-33.89044157,151.1386413,,Train,NSW
+824,Summer Hill,Carlton,Cres,Ramp,-33.89043171,151.1386155,,Train,NSW
+825,Sutherland,East,Pde,Lift,-34.0315702,151.0574323,,Train,NSW
+826,Sutherland,East,Pde,Path,-34.0315567,151.0573425,,Train,NSW
+827,Sutherland,East,Pde,Stairs,-34.03183438,151.0569098,,Train,NSW
+828,Sutherland,East,Pde,Ramp,-34.03183438,151.0569098,,Train,NSW
+829,Sydenham,Gleeson,Ave,Lift,-33.91491191,151.1661011,,Train,NSW
+830,Sydenham,Gleeson,Ave,Path,-33.9148634,151.1660472,,Train,NSW
+831,Tahmoor,George ,St,Path,-34.22358755,150.5902412,,Train,NSW
+832,Tahmoor,Pitt,St,Path,-34.22346581,150.5898308,,Train,NSW
+833,Tallong,Railway,Pde,Path,-34.71837568,150.0860928,,Train,NSW
+834,Tarro,Woodberry ,Rd,Stairs,-32.80882092,151.6694636,,Train,NSW
+835,Tarro,Woodberry ,Rd,Stairs,-32.80889516,151.6693728,,Train,NSW
+836,Tascott,Brisbane Water,Dr,Ramp,-33.45083997,151.3188156,,Train,NSW
+837,Tascott,Brisbane Water,Dr,Stairs,-33.45088295,151.318787,,Train,NSW
+838,Tascott,Glenrock,Pde,Ramp,-33.45077303,151.3187403,,Train,NSW
+839,Tascott,Glenrock,Pde,Stairs,-33.45094989,151.3183448,,Train,NSW
+840,Taverners Hill LR,Parramatta ,Rd,Lift,-33.8895669,151.145176,,Train,NSW
+841,Taverners Hill LR,Parramatta ,Rd,Lift,-33.88990657,151.1451041,,Train,NSW
+842,Taverners Hill LR,Parramatta ,Rd,Stairs,-33.88963067,151.1450837,,Train,NSW
+843,Taverners Hill LR,Parramatta ,Rd,Stairs,-33.8898685,151.1450731,,Train,NSW
+844,Telarah,Johnson,St,Ramp,-32.72323179,151.5398951,,Train,NSW
+845,Telarah,Johnson,St,Stairs,-32.72337822,151.5398859,,Train,NSW
+846,Telopea,Sturt,St,Path,-33.79400629,151.041781,,Train,NSW
+847,Telopea,Sturt,St,Ramp,-33.79424948,151.0415241,,Train,NSW
+848,Telopea,Sturt,St,Path,-33.7945703,151.0413839,,Train,NSW
+849,Telopea,Adderton,Rd,Ramp,-33.79402152,151.0412637,,Train,NSW
+850,Telopea,Adderton,Rd,Stairs,-33.79411509,151.0411954,,Train,NSW
+851,Tempe,Griffith,St,Stairs,-33.92369195,151.1567982,,Train,NSW
+852,Tempe,Griffith,St,Stairs,-33.92394727,151.15675,,Train,NSW
+853,Tempe,Richardson,Cres,Stairs,-33.92358032,151.1564713,,Train,NSW
+854,Tempe,Richardson,Cres,Stairs,-33.92389629,151.1563979,,Train,NSW
+855,Teralba,William,St,Ramp,-32.96276877,151.60415,,Train,NSW
+856,Teralba,William,St,Path,-32.962727,151.6039263,,Train,NSW
+857,Teralba,Railway,St,Stairs,-32.96216248,151.6036419,,Train,NSW
+858,The Star LR,Pirrama,Rd,Path,-33.8672709,151.1957096,,Train,NSW
+859,Thirroul,Station,St,Stairs,-34.31786015,150.9193757,,Train,NSW
+860,Thirroul,Station,St,Lift,-34.31799787,150.9192528,,Train,NSW
+861,Thirroul,Railway,Pde,Path,-34.31788392,150.918865,,Train,NSW
+862,Thirroul,Railway,Pde,Stairs,-34.31795869,150.9188517,,Train,NSW
+863,Thornleigh,Railway,Pde,Path,-33.73207901,151.0783738,,Train,NSW
+864,Thornleigh,Railway,Pde,Stairs,-33.73211866,151.0783327,,Train,NSW
+865,Thornleigh,The Esplanade,,Stairs,-33.73180916,151.0781183,,Train,NSW
+866,Thornton,Karuah ,St,Stairs,-32.78357334,151.6399935,,Train,NSW
+867,Thornton,Karuah ,St,Lift,-32.78356119,151.6399551,,Train,NSW
+868,Toongabbie,Wentworth,Ave,Ramp,-33.78699939,150.9516071,,Train,NSW
+869,Toongabbie,Portice,Pde,Ramp,-33.78714281,150.9511669,,Train,NSW
+870,Town Hall,George,St,Stairs,-33.87317129,151.2071252,2,Train,NSW
+871,Town Hall,George,St,Stairs,-33.87357692,151.2070647,2,Train,NSW
+872,Town Hall,George,St,Lift,-33.87389408,151.2070208,2,Train,NSW
+873,Town Hall,George,St,Stairs,-33.87394872,151.2070088,2,Train,NSW
+874,Town Hall,George,St,Stairs,-33.87324335,151.2067182,5,Train,NSW
+875,Town Hall,George,St,Stairs,-33.87300204,151.2066961,5,Train,NSW
+876,Town Hall,George,St,Stairs,-33.87416617,151.2066678,4,Train,NSW
+877,Town Hall,George,St,Stairs,-33.87370422,151.206619,5,Train,NSW
+878,Town Hall,Kent,St,Path,-33.87346213,151.2056759,5,Train,NSW
+879,Towradgi,Towradgi,Rd,Ramp,-34.38408404,150.9016675,,Train,NSW
+880,Towradgi,Towradgi,Rd,Ramp,-34.38412652,150.9013586,,Train,NSW
+881,Tuggerah,Bryant,Dr,Ramp,-33.3077456,151.4204201,,Train,NSW
+882,Tuggerah,Bryant,Dr,Stairs,-33.3077456,151.4204201,,Train,NSW
+883,Tuggerah,Pacific,Hwy,Ramp,-33.30747496,151.4200755,,Train,NSW
+884,Tuggerah,Pacific,Hwy,Stairs,-33.30767799,151.4200382,,Train,NSW
+885,Turramurra,Rohini,St,Path,-33.73258953,151.1290978,,Train,NSW
+886,Turramurra,William,St,Path,-33.73287787,151.128659,,Train,NSW
+887,Turrella,Reede,St,Stairs,-33.92977422,151.1404283,,Train,NSW
+888,Unanderra,Berkeley,Rd,Stairs,-34.45512841,150.8460834,,Train,NSW
+889,Unanderra,Berkeley,Rd,Stairs,-34.45480327,150.8454954,,Train,NSW
+890,Valley Heights,Great Western,Hwy,Stairs,-33.70388256,150.5840807,,Train,NSW
+891,Valley Heights,Great Western,Hwy,Ramp,-33.70385585,150.5840194,,Train,NSW
+892,Valley Heights,Great Western,Hwy,Stairs,-33.70414867,150.5836892,,Train,NSW
+893,Victoria Street,Waller,St,Stairs,-32.75096544,151.5941378,,Train,NSW
+894,Victoria Street,Victoria,St,Stairs,-32.7511242,151.5937962,,Train,NSW
+895,Villawood,Villawood,St,Stairs,-33.88092102,150.9773626,,Train,NSW
+896,Villawood,River,Ave,Stairs,-33.88074082,150.9773471,,Train,NSW
+897,Vineyard,Bandon,Rd,Ramp,-33.65018802,150.851063,,Train,NSW
+898,Wahroonga,Redleaf,Ave,Stairs,-33.71800187,151.1175185,,Train,NSW
+899,Waitara,Alexandria,Pde,Path,-33.71028639,151.105246,,Train,NSW
+900,Waitara,Waitara,Ave,Stairs,-33.71065655,151.1049153,,Train,NSW
+901,Wallarobba,Wallarobba Brookfield,Rd,Ramp,-32.49615032,151.6956921,,Train,NSW
+902,Warabrook,Eucalyptus ,Cres,Ramp,-32.88698384,151.7111872,,Train,NSW
+903,Warabrook,Ring,Rd,Ramp,-32.88848678,151.709521,,Train,NSW
+904,Waratah,Platt,St,Stairs,-32.90210317,151.731215,,Train,NSW
+905,Waratah,Platt,St,Stairs,-32.902354,151.7310238,,Train,NSW
+906,Waratah Mills LR,Davis,St,Path,-33.8989622,151.140003,,Train,NSW
+907,Waratah Mills LR,Weston,St,Path,-33.8988126,151.1398647,,Train,NSW
+908,Warnervale,Warnervale,Rd,Path,-33.2473843,151.4491366,,Train,NSW
+909,Warnervale,Warnervale,Rd,Path,-33.24713278,151.4488456,,Train,NSW
+910,Warrawee,Warrawee,Ave,Path,-33.72439373,151.1220398,,Train,NSW
+911,Warrawee,Heydon,Ave,Path,-33.72454128,151.1217229,,Train,NSW
+912,Warrimoo,Railway,Pde,Stairs,-33.72132609,150.6029511,,Train,NSW
+913,Warrimoo,Great Western,Hwy,Stairs,-33.721589,150.6027819,,Train,NSW
+914,Warrimoo,Great Western,Hwy,Ramp,-33.7215927,150.6027681,,Train,NSW
+915,Warrimoo,Great Western,Hwy,Ramp,-33.72206858,150.602657,,Train,NSW
+916,Warrimoo,Great Western,Hwy,Stairs,-33.72204408,150.6025654,,Train,NSW
+917,Warwick Farm,Warwick,St,Stairs,-33.91318088,150.9353246,,Train,NSW
+918,Warwick Farm,Warwick,St,Lift,-33.91340518,150.9352764,,Train,NSW
+919,Warwick Farm,Remembrance,Ave,Lift,-33.91324659,150.9349959,,Train,NSW
+920,Warwick Farm,Remembrance,Ave,Stairs,-33.91347354,150.9349611,,Train,NSW
+921,Waterfall,Kooraban,St,Ramp,-34.13517267,150.994605,,Train,NSW
+922,Waverton,Bay,Rd,Path,-33.83756728,151.1974683,,Train,NSW
+923,Waverton,Bay,Rd,Path,-33.83761043,151.1973366,,Train,NSW
+924,Wentworth Falls,Railway,Pde,Stairs,-33.70932977,150.3764898,,Train,NSW
+925,Wentworth Falls,Station,St,Stairs,-33.70952535,150.3761198,,Train,NSW
+926,Wentworth Park LR,Pyrmont Bridge,Rd,Path,-33.8742417,151.1940945,,Train,NSW
+927,Wentworth Park LR,Wattle,St,Ramp,-33.87506758,151.1935385,,Train,NSW
+928,Wentworthville,Wentworth,Ave,Stairs,-33.80686889,150.9725242,,Train,NSW
+929,Wentworthville,The Kingsway,,Stairs,-33.80725292,150.972304,,Train,NSW
+930,Wentworthville,Wentworth,Ave,Ramp,-33.80667668,150.971932,,Train,NSW
+931,Wentworthville,The Kingsway,,Ramp,-33.80706875,150.9718275,,Train,NSW
+932,Werrington,Victoria,Lane,Stairs,-33.7590496,150.7575668,,Train,NSW
+933,Werrington,Railway,St,Stairs,-33.75924963,150.7575314,,Train,NSW
+934,Werrington,Victoria,Lane,Lift,-33.75903757,150.7574454,,Train,NSW
+935,Werrington,Railway,St,Lift,-33.75920751,150.7574014,,Train,NSW
+936,West Ryde,Railway,Pde,Stairs,-33.80746637,151.0905793,,Train,NSW
+937,West Ryde,Railway,Pde,Lift,-33.80747159,151.0904036,,Train,NSW
+938,West Ryde,West,Pde,Ramp,-33.80687546,151.0901576,,Train,NSW
+939,West Ryde,West,Pde,Ramp,-33.80704425,151.0900831,,Train,NSW
+940,West Ryde,West,Pde,Stairs,-33.8074677,151.0899608,,Train,NSW
+941,Westmead,Railway,Pde,Stairs,-33.80836116,150.9881873,,Train,NSW
+942,Westmead,Alexandria,Ave,Stairs,-33.80870858,150.9878707,,Train,NSW
+943,Westmead,Railway,Pde,Ramp,-33.80819002,150.9877158,,Train,NSW
+944,Westmead,Alexandria,Ave,Ramp,-33.80864182,150.9876577,,Train,NSW
+945,Wiley Park,King Georges ,Rd,Ramp,-33.92278182,151.0680626,,Train,NSW
+946,Wiley Park,King Georges ,Rd,Ramp,-33.92270486,151.0680185,,Train,NSW
+947,Windsor,George,St,Path,-33.61362381,150.8111058,,Train,NSW
+948,Windsor,Cox,St,Path,-33.61292723,150.8090296,,Train,NSW
+949,Wingello,Railway,Pde,Path,-34.69233579,150.1583818,,Train,NSW
+950,Wingello,Sydney,St,Path,-34.69201661,150.1582058,,Train,NSW
+951,Wirragula,Dungog,Rd,Ramp,-32.46292679,151.7424687,,Train,NSW
+952,Wolli,Brodie Spark,Dr,Stairs,-33.92867126,151.1544432,,Train,NSW
+953,Wolli,Brodie Spark,Dr,Lift,-33.92868435,151.1543587,,Train,NSW
+954,Wolli,Discovery Point,Pl,Lift,-33.92884985,151.1538917,,Train,NSW
+955,Wolli,Discovery Point,Pl,Stairs,-33.92882963,151.153842,,Train,NSW
+956,Wollongong,Crown,St,Path,-34.42582725,150.8886385,,Train,NSW
+957,Wollongong,Station,St,Stairs,-34.42673344,150.8885596,,Train,NSW
+958,Wollongong,Station,St,Path,-34.42698795,150.8884363,,Train,NSW
+959,Wollongong,Crown,St,Lift,-34.42645671,150.8884344,,Train,NSW
+960,Wollongong,Crown,St,Lift,-34.42642506,150.8882201,,Train,NSW
+961,Wollongong,Crown,St,Path,-34.42587253,150.8882123,,Train,NSW
+962,Wollongong,Railway Staiton,Sq,Path,-34.42720865,150.8879475,,Train,NSW
+963,Wollongong,Railway Staiton,Sq,Ramp,-34.42679193,150.8878175,,Train,NSW
+964,Wollstonecraft,Milner,Cres,Path,-33.8315907,151.1925953,,Train,NSW
+965,Wollstonecraft,Shirley,Rd,Ramp,-33.83245952,151.1921823,,Train,NSW
+966,Wollstonecraft,Shirley,Rd,Path,-33.8326745,151.1917926,,Train,NSW
+967,Wollstonecraft,Milray,Ave,Path,-33.83146743,151.1915732,,Train,NSW
+968,Wombarra,Morrison,Ave,Stairs,-34.27545316,150.9536753,,Train,NSW
+969,Wombarra,Morrison,Ave,Stairs,-34.27530416,150.9535083,,Train,NSW
+970,Wondabyne,Wondabyne Wharf,,Ramp,-33.49202131,151.2571482,,Train,NSW
+971,Woodford,Railway,Pde,Stairs,-33.7357511,150.4821963,,Train,NSW
+972,Woodford,Great Western,Hwy,Ramp,-33.73546893,150.4818417,,Train,NSW
+973,Woodford,Great Western,Hwy,Ramp,-33.73526715,150.4808855,,Train,NSW
+974,Woolooware,Swan,St N,Stairs,-34.04741225,151.1437622,,Train,NSW
+975,Woolooware,Swan,St N,Lift,-34.04744884,151.1437013,,Train,NSW
+976,Woolooware,Swan,St,Stairs,-34.04769831,151.1436487,,Train,NSW
+977,Woolooware,Swan,St,Lift,-34.04765603,151.1435849,,Train,NSW
+978,Woonona,Park,Rd,Ramp,-34.34939351,150.9153897,,Train,NSW
+979,Woonona,Railway,Pde,Stairs,-34.34956158,150.91536,,Train,NSW
+980,Woonona,Park,Rd,Ramp,-34.34932926,150.9151104,,Train,NSW
+981,Woy Woy,Blackwall,Rd,Path,-33.48597397,151.324352,,Train,NSW
+982,Woy Woy,Railway,St,Ramp,-33.48527377,151.3237255,,Train,NSW
+983,Woy Woy,Railway,St,Lift,-33.48585711,151.3233847,,Train,NSW
+984,Woy Woy,Railway,St,Stairs,-33.48597825,151.3232156,,Train,NSW
+985,Wyee,Wyee,Rd,Ramp,-33.17984054,151.48724,,Train,NSW
+986,Wyee,Gorokan,Rd,Stairs,-33.180164,151.4868566,,Train,NSW
+987,Wynyard,Carrington,St,Stairs,-33.86553906,151.2063145,1,Train,TAS
+988,Wynyard,Carrington,St,Stairs,-33.86583394,151.2062822,1,Train,TAS
+989,Wynyard,Carrington,St,Path,-33.86572268,151.206269,1,Train,TAS
+990,Wynyard,Carrington,St,Lift,-33.86570502,151.2061027,1,Train,TAS
+991,Wynyard,York,St,Stairs,-33.86566282,151.2059726,3,Train,TAS
+992,Wynyard,York,St,Stairs,-33.86575654,151.2059633,3,Train,TAS
+993,Wynyard,York,St,Path,-33.86560119,151.2055201,3,Train,TAS
+994,Wynyard,Jamison,St,Path,-33.86445369,151.2053161,,Train,TAS
+995,Wynyard,Clarence,St,Lift,-33.86572968,151.2050799,4,Train,TAS
+996,Wynyard,Clarence,St,Path,-33.86564376,151.2050042,4,Train,TAS
+997,Wynyard,Clarence,St,Stairs,-33.86562889,151.2048,4,Train,TAS
+998,Wynyard,Napoleon,St,Path,-33.86524696,151.20397,,Train,TAS
+999,Wynyard,Napoleon,St,Lift,-33.86534132,151.203967,,Train,TAS
+1000,Wyong,Howarth,St,Stairs,-33.28508373,151.4255992,,Train,NSW
+1001,Wyong,Howarth,St,Lift,-33.2853325,151.4255494,,Train,NSW
+1002,Wyong,Pacific,Hwy,Lift,-33.28524935,151.4252208,,Train,NSW
+1003,Wyong,Pacific,Hwy,Stairs,-33.2853225,151.4251587,,Train,NSW
+1004,Yagoona,Hume,Hwy,Path,-33.90733106,151.0246767,,Train,NSW
+1005,Yennora,Railway,St,Stairs,-33.86488282,150.97104,,Train,NSW
+1006,Yennora,Nelson,Rd,Stairs,-33.86462082,150.9709456,,Train,NSW
+1007,Yennora,Railway,St,Stairs,-33.86498836,150.9708084,,Train,NSW
+1008,Yennora,Railway,St,Ramp,-33.86502912,150.9707162,,Train,NSW
+1009,Yerrinbool,Old Hume,Hwy,Path,-34.37159251,150.5434481,,Train,NSW
+1010,Zig Zag,Bells,Rd,Stairs,-33.47184198,150.2021194,,Train,NSW
